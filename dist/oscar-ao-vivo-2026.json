@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T18:11:51.101Z",
+  "updatedAt": "2026-03-12T19:42:23.175Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -9,6 +9,14 @@
       "totalIndicados": 10,
       "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_filme_1",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_filme_8",
           "nomePrincipal": "Bugonia",
@@ -72,14 +80,6 @@
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p89_i20_w800.jpeg?width=320",
           "status": "indicado",
           "resultado": "perdeu"
-        },
-        {
-          "indicadoId": "melhor_filme_1",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
-          "status": "vencedor",
-          "resultado": "vencedor"
         },
         {
           "indicadoId": "melhor_filme_3",
