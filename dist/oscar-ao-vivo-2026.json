@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T19:45:13.239Z",
+  "updatedAt": "2026-03-12T19:50:19.436Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -105,7 +105,7 @@
           "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_direcao_3",
@@ -113,7 +113,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p113_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_direcao_5",
@@ -121,7 +121,7 @@
           "nomeSecundario": "Marty Supreme",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p104_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_direcao_1",
@@ -129,7 +129,7 @@
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_direcao_2",
@@ -137,7 +137,7 @@
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -205,7 +205,7 @@
           "nomeSecundario": "Bugonia",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_atriz_1",
@@ -213,7 +213,7 @@
           "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_atriz_5",
@@ -221,7 +221,7 @@
           "nomeSecundario": "Song Sung Blue - Um Sonho a Dois",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i17_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_atriz_3",
@@ -229,7 +229,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_atriz_2",
@@ -237,7 +237,7 @@
           "nomeSecundario": "Se Eu Tivesse Pernas, Te Chutaria",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p151_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -255,7 +255,7 @@
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p169_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_ator_coadjuvante_5",
@@ -263,7 +263,7 @@
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p158_i20_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_ator_coadjuvante_4",
@@ -271,7 +271,7 @@
           "nomeSecundario": "Frankenstein",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_ator_coadjuvante_2",
@@ -279,7 +279,7 @@
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_ator_coadjuvante_1",
@@ -287,7 +287,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -305,7 +305,7 @@
           "nomeSecundario": "A Hora do Mal",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_atriz_coadjuvante_5",
@@ -313,7 +313,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p175_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_atriz_coadjuvante_3",
@@ -321,7 +321,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p190_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_atriz_coadjuvante_2",
@@ -329,7 +329,7 @@
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p193_i19_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_atriz_coadjuvante_4",
@@ -337,7 +337,7 @@
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3503_i2_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -355,7 +355,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p198_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_roteiro_original_4",
@@ -363,7 +363,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p213_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_roteiro_original_3",
@@ -371,7 +371,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p195_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_roteiro_original_1",
@@ -379,7 +379,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_roteiro_original_2",
@@ -387,7 +387,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p197_i10_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -405,7 +405,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p234_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_roteiro_adaptado_3",
@@ -413,7 +413,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_roteiro_adaptado_2",
@@ -421,7 +421,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_roteiro_adaptado_5",
@@ -429,7 +429,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p231_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_roteiro_adaptado_1",
@@ -437,7 +437,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p230_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -455,7 +455,7 @@
           "nomeSecundario": "Tunísia",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p606_i10_w1080.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_filme_internacional_3",
@@ -463,7 +463,7 @@
           "nomeSecundario": "França",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p619_i9_w1016.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_filme_internacional_2",
@@ -471,7 +471,7 @@
           "nomeSecundario": "Brasil",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i11_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_filme_internacional_4",
@@ -479,7 +479,7 @@
           "nomeSecundario": "Espanha",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i8_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_filme_internacional_1",
@@ -487,7 +487,7 @@
           "nomeSecundario": "Noruega",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p578_i10_w534.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -505,7 +505,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p241_i10_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_animacao_3",
@@ -513,7 +513,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_animacao_4",
@@ -521,7 +521,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p239_i7_w1013.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_animacao_1",
@@ -529,7 +529,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_animacao_2",
@@ -537,7 +537,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -555,7 +555,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_documentario_4",
@@ -563,7 +563,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p266_i13_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_documentario_3",
@@ -571,7 +571,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p267_i10_w2000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_documentario_5",
@@ -579,7 +579,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p268_i10_w770.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_documentario_2",
@@ -587,7 +587,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -605,7 +605,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_direcao_de_arte_3",
@@ -613,7 +613,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p284_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_direcao_de_arte_4",
@@ -621,7 +621,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p277_i17_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_direcao_de_arte_2",
@@ -629,7 +629,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p287_i11_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_direcao_de_arte_5",
@@ -637,7 +637,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p283_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -655,7 +655,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_figurino_1",
@@ -663,7 +663,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_figurino_3",
@@ -671,7 +671,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p305_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_figurino_4",
@@ -679,7 +679,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p301_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_figurino_2",
@@ -687,7 +687,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -705,7 +705,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3776_i1_w640.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_maquiagem_3",
@@ -713,7 +713,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p543_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_maquiagem_1",
@@ -721,7 +721,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_maquiagem_4",
@@ -729,7 +729,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3774_i1_w640.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_maquiagem_2",
@@ -737,7 +737,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p547_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -755,7 +755,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_fotografia_5",
@@ -763,7 +763,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p320_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_fotografia_1",
@@ -771,7 +771,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p319_i19_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_fotografia_2",
@@ -779,7 +779,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_fotografia_3",
@@ -787,7 +787,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p322_i11_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -805,7 +805,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p335_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_edicao_4",
@@ -813,7 +813,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p346_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_edicao_2",
@@ -821,7 +821,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p350_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_edicao_1",
@@ -829,7 +829,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p339_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_edicao_5",
@@ -837,7 +837,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p336_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -855,7 +855,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_efeitos_visuais_2",
@@ -863,7 +863,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p399_i9_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_efeitos_visuais_4",
@@ -871,7 +871,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p397_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_efeitos_visuais_5",
@@ -879,7 +879,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p404_i10_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_efeitos_visuais_3",
@@ -887,7 +887,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p403_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -905,7 +905,7 @@
           "nomeSecundario": "Dear Me",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_cancao_original_1",
@@ -913,7 +913,7 @@
           "nomeSecundario": "Golden",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_cancao_original_2",
@@ -921,7 +921,7 @@
           "nomeSecundario": "I Lied to You",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p431_i3_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_cancao_original_4",
@@ -929,7 +929,7 @@
           "nomeSecundario": "Trains Dreams",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p419_i9_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_cancao_original_5",
@@ -937,7 +937,7 @@
           "nomeSecundario": "Sweat Dreams of Joy",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3859_i1_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -955,7 +955,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p435_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_trilha_sonora_3",
@@ -963,7 +963,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_trilha_sonora_4",
@@ -971,7 +971,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p439_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_trilha_sonora_1",
@@ -979,7 +979,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_trilha_sonora_2",
@@ -987,7 +987,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p452_i19_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -1005,7 +1005,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_som_5",
@@ -1013,7 +1013,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_som_2",
@@ -1021,7 +1021,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p360_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_som_3",
@@ -1029,7 +1029,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3778_i2_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_som_4",
@@ -1037,7 +1037,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p355_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -1055,7 +1055,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p516_i8_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_curta_metragem_1",
@@ -1063,7 +1063,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3002_i5_w1300.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_curta_metragem_2",
@@ -1071,7 +1071,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3000_i5_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_curta_metragem_5",
@@ -1079,7 +1079,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i5_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_curta_metragem_4",
@@ -1087,7 +1087,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p511_i8_w2723.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -1105,7 +1105,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_animacao_em_curta_metragem_5",
@@ -1113,7 +1113,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p523_i8_w1061.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_animacao_em_curta_metragem_4",
@@ -1121,7 +1121,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_animacao_em_curta_metragem_2",
@@ -1129,7 +1129,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p517_i9_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_animacao_em_curta_metragem_3",
@@ -1137,7 +1137,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p525_i9_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -1155,7 +1155,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p529_i9_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_documentario_em_curta_metragem_5",
@@ -1163,7 +1163,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3013_i5_w2013.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_documentario_em_curta_metragem_3",
@@ -1171,7 +1171,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3011_i6_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_documentario_em_curta_metragem_4",
@@ -1179,7 +1179,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3009_i6_w3000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_documentario_em_curta_metragem_1",
@@ -1187,7 +1187,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -1205,7 +1205,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3270_i1_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_escalacao_de_elenco_4",
@@ -1213,7 +1213,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3273_i2_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_escalacao_de_elenco_3",
@@ -1221,7 +1221,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_escalacao_de_elenco_1",
@@ -1229,7 +1229,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3268_i2_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_escalacao_de_elenco_2",
@@ -1237,7 +1237,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3271_i1_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     }
