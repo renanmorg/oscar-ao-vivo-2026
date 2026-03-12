@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T20:34:05.547Z",
+  "updatedAt": "2026-03-12T20:48:12.031Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -245,25 +245,17 @@
       "categoriaId": "melhor_ator_coadjuvante",
       "categoriaNome": "Melhor Ator Coadjuvante",
       "ordemCategoria": 5,
-      "statusCategoria": "resolvida",
+      "statusCategoria": "em_aberto",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 1,
+      "totalVencedoresMarcados": 0,
       "indicados": [
-        {
-          "indicadoId": "melhor_ator_coadjuvante_4",
-          "nomePrincipal": "Jacob Elordi",
-          "nomeSecundario": "Frankenstein",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320",
-          "status": "vencedor",
-          "resultado": "vencedor"
-        },
         {
           "indicadoId": "melhor_ator_coadjuvante_3",
           "nomePrincipal": "Benicio del Toro",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p169_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_ator_coadjuvante_5",
@@ -271,7 +263,15 @@
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p158_i20_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_ator_coadjuvante_4",
+          "nomePrincipal": "Jacob Elordi",
+          "nomeSecundario": "Frankenstein",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_ator_coadjuvante_2",
@@ -279,7 +279,7 @@
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         },
         {
           "indicadoId": "melhor_ator_coadjuvante_1",
@@ -287,7 +287,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "perdeu"
+          "resultado": "indicado"
         }
       ]
     },
@@ -1244,96 +1244,6 @@
   ],
   "estatuetas": [
     {
-      "filme": "Frankenstein",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
-      "vitorias": 1,
-      "indicacoes": 9,
-      "placar": "1/9",
-      "categorias": [
-        {
-          "categoriaId": "melhor_filme",
-          "categoriaNome": "Melhor Filme",
-          "ordemCategoria": 1,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_ator_coadjuvante",
-          "categoriaNome": "Melhor Ator Coadjuvante",
-          "ordemCategoria": 5,
-          "status": "venceu",
-          "nomePrincipal": "Jacob Elordi",
-          "nomeSecundario": "Frankenstein",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_roteiro_adaptado",
-          "categoriaNome": "Melhor Roteiro Adaptado",
-          "ordemCategoria": 8,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_direcao_de_arte",
-          "categoriaNome": "Melhor Direção de Arte",
-          "ordemCategoria": 12,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_figurino",
-          "categoriaNome": "Melhor Figurino",
-          "ordemCategoria": 13,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_maquiagem",
-          "categoriaNome": "Melhor Maquiagem",
-          "ordemCategoria": 14,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_fotografia",
-          "categoriaNome": "Melhor Fotografia",
-          "ordemCategoria": 15,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_trilha_sonora",
-          "categoriaNome": "Melhor Trilha Sonora",
-          "ordemCategoria": 19,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_som",
-          "categoriaNome": "Melhor Som",
-          "ordemCategoria": 20,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
       "filme": "Pecadores",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
       "vitorias": 0,
@@ -1371,7 +1281,7 @@
           "categoriaId": "melhor_ator_coadjuvante",
           "categoriaNome": "Melhor Ator Coadjuvante",
           "ordemCategoria": 5,
-          "status": "perdeu",
+          "status": "pendente",
           "nomePrincipal": "Delroy Lindo",
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p158_i20_w800.png?width=320"
@@ -1524,7 +1434,7 @@
           "categoriaId": "melhor_ator_coadjuvante",
           "categoriaNome": "Melhor Ator Coadjuvante",
           "ordemCategoria": 5,
-          "status": "perdeu",
+          "status": "pendente",
           "nomePrincipal": "Sean Penn",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320"
@@ -1533,7 +1443,7 @@
           "categoriaId": "melhor_ator_coadjuvante",
           "categoriaNome": "Melhor Ator Coadjuvante",
           "ordemCategoria": 5,
-          "status": "perdeu",
+          "status": "pendente",
           "nomePrincipal": "Benicio del Toro",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p169_i18_w800.png?width=320"
@@ -1609,6 +1519,96 @@
           "nomePrincipal": "Uma Batalha Após a Outra",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3271_i1_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Frankenstein",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 9,
+      "placar": "0/9",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "pendente",
+          "nomePrincipal": "Jacob Elordi",
+          "nomeSecundario": "Frankenstein",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_adaptado",
+          "categoriaNome": "Melhor Roteiro Adaptado",
+          "ordemCategoria": 8,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_maquiagem",
+          "categoriaNome": "Melhor Maquiagem",
+          "ordemCategoria": 14,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_fotografia",
+          "categoriaNome": "Melhor Fotografia",
+          "ordemCategoria": 15,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320"
         }
       ]
     },
@@ -1740,7 +1740,7 @@
           "categoriaId": "melhor_ator_coadjuvante",
           "categoriaNome": "Melhor Ator Coadjuvante",
           "ordemCategoria": 5,
-          "status": "perdeu",
+          "status": "pendente",
           "nomePrincipal": "Stellan Skarsgård",
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320"
