@@ -1,0 +1,2822 @@
+{
+  "updatedAt": "2026-03-12T18:00:27.987Z",
+  "categorias": [
+    {
+      "categoriaId": "melhor_filme",
+      "categoriaNome": "Melhor Filme",
+      "ordemCategoria": 1,
+      "statusCategoria": "resolvida",
+      "totalIndicados": 10,
+      "totalVencedoresMarcados": 1,
+      "indicados": [
+        {
+          "indicadoId": "melhor_filme_1",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
+        {
+          "indicadoId": "melhor_filme_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_filme_3",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_filme_4",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_filme_5",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_filme_6",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_filme_7",
+          "nomePrincipal": "O Agente Secreto",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_filme_8",
+          "nomePrincipal": "Bugonia",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_filme_9",
+          "nomePrincipal": "Sonhos de Trem",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p89_i20_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_filme_10",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_direcao",
+      "categoriaNome": "Melhor Direção",
+      "ordemCategoria": 2,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_direcao_1",
+          "nomePrincipal": "Paul Thomas Anderson",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_direcao_2",
+          "nomePrincipal": "Ryan Coogler",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_direcao_3",
+          "nomePrincipal": "Joachim Trier",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p113_i15_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_direcao_4",
+          "nomePrincipal": "Chloé Zhao",
+          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_direcao_5",
+          "nomePrincipal": "Josh Safdie",
+          "nomeSecundario": "Marty Supreme",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p104_i18_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_ator",
+      "categoriaNome": "Melhor Ator",
+      "ordemCategoria": 3,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_ator_1",
+          "nomePrincipal": "Timothee Chalamet",
+          "nomeSecundario": "Marty Supreme",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i14_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_ator_2",
+          "nomePrincipal": "Michael B. Jordan",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_ator_3",
+          "nomePrincipal": "Wagner Moura",
+          "nomeSecundario": "O Agente Secreto",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_ator_4",
+          "nomePrincipal": "Ethan Hawke",
+          "nomeSecundario": "Blue Moon - Música e Solidão",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_ator_5",
+          "nomePrincipal": "Leonardo DiCaprio",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_atriz",
+      "categoriaNome": "Melhor Atriz",
+      "ordemCategoria": 4,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_atriz_1",
+          "nomePrincipal": "Jessie Buckley",
+          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_atriz_2",
+          "nomePrincipal": "Rose Byrne",
+          "nomeSecundario": "Se Eu Tivesse Pernas, Te Chutaria",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p151_i15_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_atriz_3",
+          "nomePrincipal": "Renate Reinsve",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_atriz_4",
+          "nomePrincipal": "Emma Stone",
+          "nomeSecundario": "Bugonia",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_atriz_5",
+          "nomePrincipal": "Kate Hudson",
+          "nomeSecundario": "Song Sung Blue - Um Sonho a Dois",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i17_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_ator_coadjuvante",
+      "categoriaNome": "Melhor Ator Coadjuvante",
+      "ordemCategoria": 5,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_ator_coadjuvante_1",
+          "nomePrincipal": "Stellan Skarsgård",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_ator_coadjuvante_2",
+          "nomePrincipal": "Sean Penn",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_ator_coadjuvante_3",
+          "nomePrincipal": "Benicio del Toro",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p169_i18_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_ator_coadjuvante_4",
+          "nomePrincipal": "Jacob Elordi",
+          "nomeSecundario": "Frankenstein",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_ator_coadjuvante_5",
+          "nomePrincipal": "Delroy Lindo",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p158_i20_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_atriz_coadjuvante",
+      "categoriaNome": "Melhor Atriz Coadjuvante",
+      "ordemCategoria": 6,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_atriz_coadjuvante_1",
+          "nomePrincipal": "Amy Madigan",
+          "nomeSecundario": "A Hora do Mal",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_atriz_coadjuvante_2",
+          "nomePrincipal": "Teyana Taylor",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p193_i19_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_atriz_coadjuvante_3",
+          "nomePrincipal": "Inga Ibsdotter Lilleaas",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p190_i18_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_atriz_coadjuvante_4",
+          "nomePrincipal": "Wunmi Mosaku",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3503_i2_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_atriz_coadjuvante_5",
+          "nomePrincipal": "Elle Fanning",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p175_i18_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_roteiro_original",
+      "categoriaNome": "Melhor Roteiro Original",
+      "ordemCategoria": 7,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_roteiro_original_1",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_roteiro_original_2",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p197_i10_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_roteiro_original_3",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p195_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_roteiro_original_4",
+          "nomePrincipal": "Foi Apenas Um Acidente",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p213_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_roteiro_original_5",
+          "nomePrincipal": "Blue Moon - Música e Solidão",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p198_i13_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_roteiro_adaptado",
+      "categoriaNome": "Melhor Roteiro Adaptado",
+      "ordemCategoria": 8,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_roteiro_adaptado_1",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p230_i14_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_roteiro_adaptado_2",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_roteiro_adaptado_3",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_roteiro_adaptado_4",
+          "nomePrincipal": "Bugonia",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p234_i16_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_roteiro_adaptado_5",
+          "nomePrincipal": "Sonhos de Trem",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p231_i15_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_filme_internacional",
+      "categoriaNome": "Melhor Filme Internacional",
+      "ordemCategoria": 9,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_filme_internacional_1",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "Noruega",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p578_i10_w534.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_filme_internacional_2",
+          "nomePrincipal": "O Agente Secreto",
+          "nomeSecundario": "Brasil",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i11_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_filme_internacional_3",
+          "nomePrincipal": "Foi Apenas Um Acidente",
+          "nomeSecundario": "França",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p619_i9_w1016.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_filme_internacional_4",
+          "nomePrincipal": "Sirāt",
+          "nomeSecundario": "Espanha",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i8_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_filme_internacional_5",
+          "nomePrincipal": "A Voz de Hind Rajab",
+          "nomeSecundario": "Tunísia",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p606_i10_w1080.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_animacao",
+      "categoriaNome": "Melhor Animação",
+      "ordemCategoria": 10,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_animacao_1",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_animacao_2",
+          "nomePrincipal": "Zootopia 2",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_animacao_3",
+          "nomePrincipal": "Arco",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_animacao_4",
+          "nomePrincipal": "Elio",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p239_i7_w1013.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_animacao_5",
+          "nomePrincipal": "A Pequena Amélie",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p241_i10_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_documentario",
+      "categoriaNome": "Melhor Documentário",
+      "ordemCategoria": 11,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_documentario_1",
+          "nomePrincipal": "A Vizinha Perfeita",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_documentario_2",
+          "nomePrincipal": "Um Zé Ninguém Contra Putin",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_documentario_3",
+          "nomePrincipal": "Embaixo da Luz de Neon",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p267_i10_w2000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_documentario_4",
+          "nomePrincipal": "Alabama: Presos do sistema",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p266_i13_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_documentario_5",
+          "nomePrincipal": "Rompendo Rochas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p268_i10_w770.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_direcao_de_arte",
+      "categoriaNome": "Melhor Direção de Arte",
+      "ordemCategoria": 12,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_direcao_de_arte_1",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_direcao_de_arte_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p287_i11_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_direcao_de_arte_3",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p284_i13_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_direcao_de_arte_4",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p277_i17_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_direcao_de_arte_5",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p283_i14_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_figurino",
+      "categoriaNome": "Melhor Figurino",
+      "ordemCategoria": 13,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_figurino_1",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_figurino_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_figurino_3",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p305_i15_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_figurino_4",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p301_i13_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_figurino_5",
+          "nomePrincipal": "Avatar: Fogo e Cinzas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_maquiagem",
+      "categoriaNome": "Melhor Maquiagem",
+      "ordemCategoria": 14,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_maquiagem_1",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_maquiagem_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p547_i14_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_maquiagem_3",
+          "nomePrincipal": "Coração de Lutador - The Smashing Machine",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p543_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_maquiagem_4",
+          "nomePrincipal": "Kokuho: O Preço da Perfeição",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3774_i1_w640.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_maquiagem_5",
+          "nomePrincipal": "A Meia-Irmã Feia",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3776_i1_w640.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_fotografia",
+      "categoriaNome": "Melhor Fotografia",
+      "ordemCategoria": 15,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_fotografia_1",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p319_i19_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_fotografia_2",
+          "nomePrincipal": "Sonhos de Trem",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_fotografia_3",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p322_i11_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_fotografia_4",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_fotografia_5",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p320_i15_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_edicao",
+      "categoriaNome": "Melhor Edição",
+      "ordemCategoria": 16,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_edicao_1",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p339_i14_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_edicao_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p350_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_edicao_3",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p335_i13_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_edicao_4",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p346_i14_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_edicao_5",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p336_i14_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_efeitos_visuais",
+      "categoriaNome": "Melhor Efeitos Visuais",
+      "ordemCategoria": 17,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_efeitos_visuais_1",
+          "nomePrincipal": "Avatar: Fogo e Cinzas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_efeitos_visuais_2",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p399_i9_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_efeitos_visuais_3",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p403_i13_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_efeitos_visuais_4",
+          "nomePrincipal": "Jurassic World: Recomeço",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p397_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_efeitos_visuais_5",
+          "nomePrincipal": "O Ônibus Perdido",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p404_i10_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_cancao_original",
+      "categoriaNome": "Melhor Canção Original",
+      "ordemCategoria": 18,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_cancao_original_1",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_cancao_original_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p431_i3_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_cancao_original_3",
+          "nomePrincipal": "Diane Warren: Relentless",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_cancao_original_4",
+          "nomePrincipal": "Sonhos de Trem",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p419_i9_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_cancao_original_5",
+          "nomePrincipal": "Viva Verdi!",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3859_i1_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_trilha_sonora",
+      "categoriaNome": "Melhor Trilha Sonora",
+      "ordemCategoria": 19,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_trilha_sonora_1",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_trilha_sonora_2",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p452_i19_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_trilha_sonora_3",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_trilha_sonora_4",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p439_i14_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_trilha_sonora_5",
+          "nomePrincipal": "Bugonia",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p435_i13_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_som",
+      "categoriaNome": "Melhor Som",
+      "ordemCategoria": 20,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_som_1",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_som_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p360_i15_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_som_3",
+          "nomePrincipal": "Sirāt",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3778_i2_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_som_4",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p355_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_som_5",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_curta_metragem",
+      "categoriaNome": "Melhor Curta-Metragem",
+      "ordemCategoria": 21,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_curta_metragem_1",
+          "nomePrincipal": "Duas Pessoas Trocando Saliva",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3002_i5_w1300.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_curta_metragem_2",
+          "nomePrincipal": "O Drama Menstrual de Jane Austen",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3000_i5_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_curta_metragem_3",
+          "nomePrincipal": "Butcher's Stain",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p516_i8_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_curta_metragem_4",
+          "nomePrincipal": "Um Amigo de Dorothy",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p511_i8_w2723.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_curta_metragem_5",
+          "nomePrincipal": "Os Cantores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i5_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_animacao_em_curta_metragem",
+      "categoriaNome": "Melhor Animação em Curta-Metragem",
+      "ordemCategoria": 22,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_animacao_em_curta_metragem_1",
+          "nomePrincipal": "A Garota Que Chorava Pérolas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_animacao_em_curta_metragem_2",
+          "nomePrincipal": "Forevergreen",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p517_i9_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_animacao_em_curta_metragem_3",
+          "nomePrincipal": "Retirement Plan",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p525_i9_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_animacao_em_curta_metragem_4",
+          "nomePrincipal": "Borboleta",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_animacao_em_curta_metragem_5",
+          "nomePrincipal": "As Três Irmãs",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p523_i8_w1061.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_documentario_em_curta_metragem",
+      "categoriaNome": "Melhor Documentário em Curta-Metragem",
+      "ordemCategoria": 23,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_documentario_em_curta_metragem_1",
+          "nomePrincipal": "Quartos Vazios",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_documentario_em_curta_metragem_2",
+          "nomePrincipal": "Armado com uma Câmera: Vida e Morte de Brent Renaud",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p529_i9_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_documentario_em_curta_metragem_3",
+          "nomePrincipal": "O Diabo Não Tem Descanso",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3011_i6_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_documentario_em_curta_metragem_4",
+          "nomePrincipal": "Perfectly a Strangeness",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3009_i6_w3000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_documentario_em_curta_metragem_5",
+          "nomePrincipal": "Children No More: “Were and Are Gone",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3013_i5_w2013.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    },
+    {
+      "categoriaId": "melhor_escalacao_de_elenco",
+      "categoriaNome": "Melhor Escalação de Elenco",
+      "ordemCategoria": 24,
+      "statusCategoria": "em_aberto",
+      "totalIndicados": 5,
+      "totalVencedoresMarcados": 0,
+      "indicados": [
+        {
+          "indicadoId": "melhor_escalacao_de_elenco_1",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3268_i2_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_escalacao_de_elenco_2",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3271_i1_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_escalacao_de_elenco_3",
+          "nomePrincipal": "O Agente Secreto",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_escalacao_de_elenco_4",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3273_i2_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        },
+        {
+          "indicadoId": "melhor_escalacao_de_elenco_5",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3270_i1_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "indicado"
+        }
+      ]
+    }
+  ],
+  "estatuetas": [
+    {
+      "filme": "Uma Batalha Após a Outra",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 13,
+      "placar": "1/13",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "venceu",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao",
+          "categoriaNome": "Melhor Direção",
+          "ordemCategoria": 2,
+          "status": "pendente",
+          "nomePrincipal": "Paul Thomas Anderson",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator",
+          "categoriaNome": "Melhor Ator",
+          "ordemCategoria": 3,
+          "status": "pendente",
+          "nomePrincipal": "Leonardo DiCaprio",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "pendente",
+          "nomePrincipal": "Sean Penn",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "pendente",
+          "nomePrincipal": "Benicio del Toro",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p169_i18_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "pendente",
+          "nomePrincipal": "Teyana Taylor",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p193_i19_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_adaptado",
+          "categoriaNome": "Melhor Roteiro Adaptado",
+          "ordemCategoria": 8,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p230_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p283_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_fotografia",
+          "categoriaNome": "Melhor Fotografia",
+          "ordemCategoria": 15,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p322_i11_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_edicao",
+          "categoriaNome": "Melhor Edição",
+          "ordemCategoria": 16,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p339_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p452_i19_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p355_i12_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_escalacao_de_elenco",
+          "categoriaNome": "Melhor Escalação de Elenco",
+          "ordemCategoria": 24,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3271_i1_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Pecadores",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 16,
+      "placar": "0/16",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "perdeu",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao",
+          "categoriaNome": "Melhor Direção",
+          "ordemCategoria": 2,
+          "status": "pendente",
+          "nomePrincipal": "Ryan Coogler",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator",
+          "categoriaNome": "Melhor Ator",
+          "ordemCategoria": 3,
+          "status": "pendente",
+          "nomePrincipal": "Michael B. Jordan",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "pendente",
+          "nomePrincipal": "Delroy Lindo",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p158_i20_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "pendente",
+          "nomePrincipal": "Wunmi Mosaku",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3503_i2_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_original",
+          "categoriaNome": "Melhor Roteiro Original",
+          "ordemCategoria": 7,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p287_i11_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_maquiagem",
+          "categoriaNome": "Melhor Maquiagem",
+          "ordemCategoria": 14,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p547_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_fotografia",
+          "categoriaNome": "Melhor Fotografia",
+          "ordemCategoria": 15,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p319_i19_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_edicao",
+          "categoriaNome": "Melhor Edição",
+          "ordemCategoria": 16,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p350_i12_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_efeitos_visuais",
+          "categoriaNome": "Melhor Efeitos Visuais",
+          "ordemCategoria": 17,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p403_i13_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_cancao_original",
+          "categoriaNome": "Melhor Canção Original",
+          "ordemCategoria": 18,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p431_i3_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p360_i15_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_escalacao_de_elenco",
+          "categoriaNome": "Melhor Escalação de Elenco",
+          "ordemCategoria": 24,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3268_i2_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Frankenstein",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 9,
+      "placar": "0/9",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "perdeu",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "pendente",
+          "nomePrincipal": "Jacob Elordi",
+          "nomeSecundario": "Frankenstein",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_adaptado",
+          "categoriaNome": "Melhor Roteiro Adaptado",
+          "ordemCategoria": 8,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_maquiagem",
+          "categoriaNome": "Melhor Maquiagem",
+          "ordemCategoria": 14,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_fotografia",
+          "categoriaNome": "Melhor Fotografia",
+          "ordemCategoria": 15,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Marty Supreme",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 9,
+      "placar": "0/9",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "perdeu",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao",
+          "categoriaNome": "Melhor Direção",
+          "ordemCategoria": 2,
+          "status": "pendente",
+          "nomePrincipal": "Josh Safdie",
+          "nomeSecundario": "Marty Supreme",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p104_i18_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator",
+          "categoriaNome": "Melhor Ator",
+          "ordemCategoria": 3,
+          "status": "pendente",
+          "nomePrincipal": "Timothee Chalamet",
+          "nomeSecundario": "Marty Supreme",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i14_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_original",
+          "categoriaNome": "Melhor Roteiro Original",
+          "ordemCategoria": 7,
+          "status": "pendente",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p195_i12_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "pendente",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p277_i17_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
+          "status": "pendente",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p301_i13_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_fotografia",
+          "categoriaNome": "Melhor Fotografia",
+          "ordemCategoria": 15,
+          "status": "pendente",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p320_i15_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_edicao",
+          "categoriaNome": "Melhor Edição",
+          "ordemCategoria": 16,
+          "status": "pendente",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p346_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_escalacao_de_elenco",
+          "categoriaNome": "Melhor Escalação de Elenco",
+          "ordemCategoria": 24,
+          "status": "pendente",
+          "nomePrincipal": "Marty Supreme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3273_i2_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Valor Sentimental",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 9,
+      "placar": "0/9",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "perdeu",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao",
+          "categoriaNome": "Melhor Direção",
+          "ordemCategoria": 2,
+          "status": "pendente",
+          "nomePrincipal": "Joachim Trier",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p113_i15_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz",
+          "categoriaNome": "Melhor Atriz",
+          "ordemCategoria": 4,
+          "status": "pendente",
+          "nomePrincipal": "Renate Reinsve",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "pendente",
+          "nomePrincipal": "Stellan Skarsgård",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "pendente",
+          "nomePrincipal": "Inga Ibsdotter Lilleaas",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p190_i18_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "pendente",
+          "nomePrincipal": "Elle Fanning",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p175_i18_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_original",
+          "categoriaNome": "Melhor Roteiro Original",
+          "ordemCategoria": 7,
+          "status": "pendente",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p197_i10_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_filme_internacional",
+          "categoriaNome": "Melhor Filme Internacional",
+          "ordemCategoria": 9,
+          "status": "pendente",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "Noruega",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p578_i10_w534.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_edicao",
+          "categoriaNome": "Melhor Edição",
+          "ordemCategoria": 16,
+          "status": "pendente",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p336_i14_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Hamnet: A Vida Antes de Hamlet",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 8,
+      "placar": "0/8",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "perdeu",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao",
+          "categoriaNome": "Melhor Direção",
+          "ordemCategoria": 2,
+          "status": "pendente",
+          "nomePrincipal": "Chloé Zhao",
+          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz",
+          "categoriaNome": "Melhor Atriz",
+          "ordemCategoria": 4,
+          "status": "pendente",
+          "nomePrincipal": "Jessie Buckley",
+          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_adaptado",
+          "categoriaNome": "Melhor Roteiro Adaptado",
+          "ordemCategoria": 8,
+          "status": "pendente",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "pendente",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p284_i13_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
+          "status": "pendente",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p305_i15_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "pendente",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p439_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_escalacao_de_elenco",
+          "categoriaNome": "Melhor Escalação de Elenco",
+          "ordemCategoria": 24,
+          "status": "pendente",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3270_i1_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Bugonia",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 4,
+      "placar": "0/4",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "perdeu",
+          "nomePrincipal": "Bugonia",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz",
+          "categoriaNome": "Melhor Atriz",
+          "ordemCategoria": 4,
+          "status": "pendente",
+          "nomePrincipal": "Emma Stone",
+          "nomeSecundario": "Bugonia",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_adaptado",
+          "categoriaNome": "Melhor Roteiro Adaptado",
+          "ordemCategoria": 8,
+          "status": "pendente",
+          "nomePrincipal": "Bugonia",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p234_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "pendente",
+          "nomePrincipal": "Bugonia",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p435_i13_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "F1: O Filme",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 4,
+      "placar": "0/4",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "perdeu",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_edicao",
+          "categoriaNome": "Melhor Edição",
+          "ordemCategoria": 16,
+          "status": "pendente",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p335_i13_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_efeitos_visuais",
+          "categoriaNome": "Melhor Efeitos Visuais",
+          "ordemCategoria": 17,
+          "status": "pendente",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p399_i9_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "pendente",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "O Agente Secreto",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 4,
+      "placar": "0/4",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "perdeu",
+          "nomePrincipal": "O Agente Secreto",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator",
+          "categoriaNome": "Melhor Ator",
+          "ordemCategoria": 3,
+          "status": "pendente",
+          "nomePrincipal": "Wagner Moura",
+          "nomeSecundario": "O Agente Secreto",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_filme_internacional",
+          "categoriaNome": "Melhor Filme Internacional",
+          "ordemCategoria": 9,
+          "status": "pendente",
+          "nomePrincipal": "O Agente Secreto",
+          "nomeSecundario": "Brasil",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i11_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_escalacao_de_elenco",
+          "categoriaNome": "Melhor Escalação de Elenco",
+          "ordemCategoria": 24,
+          "status": "pendente",
+          "nomePrincipal": "O Agente Secreto",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Sonhos de Trem",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p89_i20_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 4,
+      "placar": "0/4",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "perdeu",
+          "nomePrincipal": "Sonhos de Trem",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p89_i20_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_adaptado",
+          "categoriaNome": "Melhor Roteiro Adaptado",
+          "ordemCategoria": 8,
+          "status": "pendente",
+          "nomePrincipal": "Sonhos de Trem",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p231_i15_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_fotografia",
+          "categoriaNome": "Melhor Fotografia",
+          "ordemCategoria": 15,
+          "status": "pendente",
+          "nomePrincipal": "Sonhos de Trem",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_cancao_original",
+          "categoriaNome": "Melhor Canção Original",
+          "ordemCategoria": 18,
+          "status": "pendente",
+          "nomePrincipal": "Sonhos de Trem",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p419_i9_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Avatar: Fogo e Cinzas",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 2,
+      "placar": "0/2",
+      "categorias": [
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
+          "status": "pendente",
+          "nomePrincipal": "Avatar: Fogo e Cinzas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_efeitos_visuais",
+          "categoriaNome": "Melhor Efeitos Visuais",
+          "ordemCategoria": 17,
+          "status": "pendente",
+          "nomePrincipal": "Avatar: Fogo e Cinzas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Blue Moon - Música e Solidão",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320",
+      "vitorias": 0,
+      "indicacoes": 2,
+      "placar": "0/2",
+      "categorias": [
+        {
+          "categoriaId": "melhor_ator",
+          "categoriaNome": "Melhor Ator",
+          "ordemCategoria": 3,
+          "status": "pendente",
+          "nomePrincipal": "Ethan Hawke",
+          "nomeSecundario": "Blue Moon - Música e Solidão",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_original",
+          "categoriaNome": "Melhor Roteiro Original",
+          "ordemCategoria": 7,
+          "status": "pendente",
+          "nomePrincipal": "Blue Moon - Música e Solidão",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p198_i13_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Foi Apenas Um Acidente",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p213_i12_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 2,
+      "placar": "0/2",
+      "categorias": [
+        {
+          "categoriaId": "melhor_roteiro_original",
+          "categoriaNome": "Melhor Roteiro Original",
+          "ordemCategoria": 7,
+          "status": "pendente",
+          "nomePrincipal": "Foi Apenas Um Acidente",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p213_i12_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_filme_internacional",
+          "categoriaNome": "Melhor Filme Internacional",
+          "ordemCategoria": 9,
+          "status": "pendente",
+          "nomePrincipal": "Foi Apenas Um Acidente",
+          "nomeSecundario": "França",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p619_i9_w1016.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Guerreiras do KPop",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 2,
+      "placar": "0/2",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao",
+          "categoriaNome": "Melhor Animação",
+          "ordemCategoria": 10,
+          "status": "pendente",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_cancao_original",
+          "categoriaNome": "Melhor Canção Original",
+          "ordemCategoria": 18,
+          "status": "pendente",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Sirāt",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i8_w1000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 2,
+      "placar": "0/2",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme_internacional",
+          "categoriaNome": "Melhor Filme Internacional",
+          "ordemCategoria": 9,
+          "status": "pendente",
+          "nomePrincipal": "Sirāt",
+          "nomeSecundario": "Espanha",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i8_w1000.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "pendente",
+          "nomePrincipal": "Sirāt",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3778_i2_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "A Garota Que Chorava Pérolas",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao_em_curta_metragem",
+          "categoriaNome": "Melhor Animação em Curta-Metragem",
+          "ordemCategoria": 22,
+          "status": "pendente",
+          "nomePrincipal": "A Garota Que Chorava Pérolas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg"
+        }
+      ]
+    },
+    {
+      "filme": "A Hora do Mal",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "pendente",
+          "nomePrincipal": "Amy Madigan",
+          "nomeSecundario": "A Hora do Mal",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "A Meia-Irmã Feia",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3776_i1_w640.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_maquiagem",
+          "categoriaNome": "Melhor Maquiagem",
+          "ordemCategoria": 14,
+          "status": "pendente",
+          "nomePrincipal": "A Meia-Irmã Feia",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3776_i1_w640.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "A Pequena Amélie",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p241_i10_w1000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao",
+          "categoriaNome": "Melhor Animação",
+          "ordemCategoria": 10,
+          "status": "pendente",
+          "nomePrincipal": "A Pequena Amélie",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p241_i10_w1000.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "A Vizinha Perfeita",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario",
+          "categoriaNome": "Melhor Documentário",
+          "ordemCategoria": 11,
+          "status": "pendente",
+          "nomePrincipal": "A Vizinha Perfeita",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "A Voz de Hind Rajab",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p606_i10_w1080.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme_internacional",
+          "categoriaNome": "Melhor Filme Internacional",
+          "ordemCategoria": 9,
+          "status": "pendente",
+          "nomePrincipal": "A Voz de Hind Rajab",
+          "nomeSecundario": "Tunísia",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p606_i10_w1080.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Alabama: Presos do sistema",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p266_i13_w1000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario",
+          "categoriaNome": "Melhor Documentário",
+          "ordemCategoria": 11,
+          "status": "pendente",
+          "nomePrincipal": "Alabama: Presos do sistema",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p266_i13_w1000.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Arco",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao",
+          "categoriaNome": "Melhor Animação",
+          "ordemCategoria": 10,
+          "status": "pendente",
+          "nomePrincipal": "Arco",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg"
+        }
+      ]
+    },
+    {
+      "filme": "Armado com uma Câmera: Vida e Morte de Brent Renaud",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p529_i9_w1000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario_em_curta_metragem",
+          "categoriaNome": "Melhor Documentário em Curta-Metragem",
+          "ordemCategoria": 23,
+          "status": "pendente",
+          "nomePrincipal": "Armado com uma Câmera: Vida e Morte de Brent Renaud",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p529_i9_w1000.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "As Três Irmãs",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p523_i8_w1061.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao_em_curta_metragem",
+          "categoriaNome": "Melhor Animação em Curta-Metragem",
+          "ordemCategoria": 22,
+          "status": "pendente",
+          "nomePrincipal": "As Três Irmãs",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p523_i8_w1061.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Borboleta",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao_em_curta_metragem",
+          "categoriaNome": "Melhor Animação em Curta-Metragem",
+          "ordemCategoria": 22,
+          "status": "pendente",
+          "nomePrincipal": "Borboleta",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Butcher's Stain",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p516_i8_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_curta_metragem",
+          "categoriaNome": "Melhor Curta-Metragem",
+          "ordemCategoria": 21,
+          "status": "pendente",
+          "nomePrincipal": "Butcher's Stain",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p516_i8_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Children No More: “Were and Are Gone",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3013_i5_w2013.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario_em_curta_metragem",
+          "categoriaNome": "Melhor Documentário em Curta-Metragem",
+          "ordemCategoria": 23,
+          "status": "pendente",
+          "nomePrincipal": "Children No More: “Were and Are Gone",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3013_i5_w2013.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Coração de Lutador - The Smashing Machine",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p543_i12_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_maquiagem",
+          "categoriaNome": "Melhor Maquiagem",
+          "ordemCategoria": 14,
+          "status": "pendente",
+          "nomePrincipal": "Coração de Lutador - The Smashing Machine",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p543_i12_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Diane Warren: Relentless",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_cancao_original",
+          "categoriaNome": "Melhor Canção Original",
+          "ordemCategoria": 18,
+          "status": "pendente",
+          "nomePrincipal": "Diane Warren: Relentless",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Duas Pessoas Trocando Saliva",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3002_i5_w1300.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_curta_metragem",
+          "categoriaNome": "Melhor Curta-Metragem",
+          "ordemCategoria": 21,
+          "status": "pendente",
+          "nomePrincipal": "Duas Pessoas Trocando Saliva",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3002_i5_w1300.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Elio",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p239_i7_w1013.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao",
+          "categoriaNome": "Melhor Animação",
+          "ordemCategoria": 10,
+          "status": "pendente",
+          "nomePrincipal": "Elio",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p239_i7_w1013.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Embaixo da Luz de Neon",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p267_i10_w2000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario",
+          "categoriaNome": "Melhor Documentário",
+          "ordemCategoria": 11,
+          "status": "pendente",
+          "nomePrincipal": "Embaixo da Luz de Neon",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p267_i10_w2000.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Forevergreen",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p517_i9_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao_em_curta_metragem",
+          "categoriaNome": "Melhor Animação em Curta-Metragem",
+          "ordemCategoria": 22,
+          "status": "pendente",
+          "nomePrincipal": "Forevergreen",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p517_i9_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Jurassic World: Recomeço",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p397_i12_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_efeitos_visuais",
+          "categoriaNome": "Melhor Efeitos Visuais",
+          "ordemCategoria": 17,
+          "status": "pendente",
+          "nomePrincipal": "Jurassic World: Recomeço",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p397_i12_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Kokuho: O Preço da Perfeição",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3774_i1_w640.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_maquiagem",
+          "categoriaNome": "Melhor Maquiagem",
+          "ordemCategoria": 14,
+          "status": "pendente",
+          "nomePrincipal": "Kokuho: O Preço da Perfeição",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3774_i1_w640.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "O Diabo Não Tem Descanso",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3011_i6_w1000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario_em_curta_metragem",
+          "categoriaNome": "Melhor Documentário em Curta-Metragem",
+          "ordemCategoria": 23,
+          "status": "pendente",
+          "nomePrincipal": "O Diabo Não Tem Descanso",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3011_i6_w1000.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "O Drama Menstrual de Jane Austen",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3000_i5_w1000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_curta_metragem",
+          "categoriaNome": "Melhor Curta-Metragem",
+          "ordemCategoria": 21,
+          "status": "pendente",
+          "nomePrincipal": "O Drama Menstrual de Jane Austen",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3000_i5_w1000.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "O Ônibus Perdido",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p404_i10_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_efeitos_visuais",
+          "categoriaNome": "Melhor Efeitos Visuais",
+          "ordemCategoria": 17,
+          "status": "pendente",
+          "nomePrincipal": "O Ônibus Perdido",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p404_i10_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Os Cantores",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i5_w1000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_curta_metragem",
+          "categoriaNome": "Melhor Curta-Metragem",
+          "ordemCategoria": 21,
+          "status": "pendente",
+          "nomePrincipal": "Os Cantores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i5_w1000.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Perfectly a Strangeness",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3009_i6_w3000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario_em_curta_metragem",
+          "categoriaNome": "Melhor Documentário em Curta-Metragem",
+          "ordemCategoria": 23,
+          "status": "pendente",
+          "nomePrincipal": "Perfectly a Strangeness",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3009_i6_w3000.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Quartos Vazios",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario_em_curta_metragem",
+          "categoriaNome": "Melhor Documentário em Curta-Metragem",
+          "ordemCategoria": 23,
+          "status": "pendente",
+          "nomePrincipal": "Quartos Vazios",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Retirement Plan",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p525_i9_w1000.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao_em_curta_metragem",
+          "categoriaNome": "Melhor Animação em Curta-Metragem",
+          "ordemCategoria": 22,
+          "status": "pendente",
+          "nomePrincipal": "Retirement Plan",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p525_i9_w1000.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Rompendo Rochas",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p268_i10_w770.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario",
+          "categoriaNome": "Melhor Documentário",
+          "ordemCategoria": 11,
+          "status": "pendente",
+          "nomePrincipal": "Rompendo Rochas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p268_i10_w770.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Se Eu Tivesse Pernas, Te Chutaria",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p151_i15_w800.png?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_atriz",
+          "categoriaNome": "Melhor Atriz",
+          "ordemCategoria": 4,
+          "status": "pendente",
+          "nomePrincipal": "Rose Byrne",
+          "nomeSecundario": "Se Eu Tivesse Pernas, Te Chutaria",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p151_i15_w800.png?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Song Sung Blue - Um Sonho a Dois",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i17_w800.png?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_atriz",
+          "categoriaNome": "Melhor Atriz",
+          "ordemCategoria": 4,
+          "status": "pendente",
+          "nomePrincipal": "Kate Hudson",
+          "nomeSecundario": "Song Sung Blue - Um Sonho a Dois",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i17_w800.png?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Um Amigo de Dorothy",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p511_i8_w2723.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_curta_metragem",
+          "categoriaNome": "Melhor Curta-Metragem",
+          "ordemCategoria": 21,
+          "status": "pendente",
+          "nomePrincipal": "Um Amigo de Dorothy",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p511_i8_w2723.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Um Zé Ninguém Contra Putin",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario",
+          "categoriaNome": "Melhor Documentário",
+          "ordemCategoria": 11,
+          "status": "pendente",
+          "nomePrincipal": "Um Zé Ninguém Contra Putin",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Viva Verdi!",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3859_i1_w800.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_cancao_original",
+          "categoriaNome": "Melhor Canção Original",
+          "ordemCategoria": 18,
+          "status": "pendente",
+          "nomePrincipal": "Viva Verdi!",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3859_i1_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Zootopia 2",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 1,
+      "placar": "0/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao",
+          "categoriaNome": "Melhor Animação",
+          "ordemCategoria": 10,
+          "status": "pendente",
+          "nomePrincipal": "Zootopia 2",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg?width=320"
+        }
+      ]
+    }
+  ]
+}
