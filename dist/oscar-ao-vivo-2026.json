@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T18:04:49.987Z",
+  "updatedAt": "2026-03-12T18:11:51.101Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -10,26 +10,26 @@
       "totalVencedoresMarcados": 1,
       "indicados": [
         {
-          "indicadoId": "melhor_filme_1",
-          "nomePrincipal": "Uma Batalha Após a Outra",
+          "indicadoId": "melhor_filme_8",
+          "nomePrincipal": "Bugonia",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
-          "status": "vencedor",
-          "resultado": "vencedor"
-        },
-        {
-          "indicadoId": "melhor_filme_2",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=320",
           "status": "indicado",
           "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_filme_3",
-          "nomePrincipal": "Valor Sentimental",
+          "indicadoId": "melhor_filme_10",
+          "nomePrincipal": "F1: O Filme",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_filme_6",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
           "status": "indicado",
           "resultado": "perdeu"
         },
@@ -50,14 +50,6 @@
           "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_filme_6",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "perdeu"
-        },
-        {
           "indicadoId": "melhor_filme_7",
           "nomePrincipal": "O Agente Secreto",
           "nomeSecundario": "",
@@ -66,10 +58,10 @@
           "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_filme_8",
-          "nomePrincipal": "Bugonia",
+          "indicadoId": "melhor_filme_2",
+          "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
           "status": "indicado",
           "resultado": "perdeu"
         },
@@ -82,10 +74,18 @@
           "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_filme_10",
-          "nomePrincipal": "F1: O Filme",
+          "indicadoId": "melhor_filme_1",
+          "nomePrincipal": "Uma Batalha Após a Outra",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
+        {
+          "indicadoId": "melhor_filme_3",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg?width=320",
           "status": "indicado",
           "resultado": "perdeu"
         }
@@ -100,20 +100,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_direcao_1",
-          "nomePrincipal": "Paul Thomas Anderson",
-          "nomeSecundario": "Uma Batalha Após a Outra",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=320",
+          "indicadoId": "melhor_direcao_4",
+          "nomePrincipal": "Chloé Zhao",
+          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_direcao_2",
-          "nomePrincipal": "Ryan Coogler",
-          "nomeSecundario": "Pecadores",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_direcao_3",
@@ -121,15 +113,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p113_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_direcao_4",
-          "nomePrincipal": "Chloé Zhao",
-          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_direcao_5",
@@ -137,7 +121,23 @@
           "nomeSecundario": "Marty Supreme",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p104_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_direcao_1",
+          "nomePrincipal": "Paul Thomas Anderson",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_direcao_2",
+          "nomePrincipal": "Ryan Coogler",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -150,36 +150,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_ator_1",
-          "nomePrincipal": "Timothee Chalamet",
-          "nomeSecundario": "Marty Supreme",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i14_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_ator_2",
-          "nomePrincipal": "Michael B. Jordan",
-          "nomeSecundario": "Pecadores",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_ator_3",
-          "nomePrincipal": "Wagner Moura",
-          "nomeSecundario": "O Agente Secreto",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
           "indicadoId": "melhor_ator_4",
           "nomePrincipal": "Ethan Hawke",
           "nomeSecundario": "Blue Moon - Música e Solidão",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_ator_5",
@@ -187,7 +163,31 @@
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_ator_2",
+          "nomePrincipal": "Michael B. Jordan",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_ator_1",
+          "nomePrincipal": "Timothee Chalamet",
+          "nomeSecundario": "Marty Supreme",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i14_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_ator_3",
+          "nomePrincipal": "Wagner Moura",
+          "nomeSecundario": "O Agente Secreto",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -200,36 +200,20 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_atriz_1",
-          "nomePrincipal": "Jessie Buckley",
-          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_atriz_2",
-          "nomePrincipal": "Rose Byrne",
-          "nomeSecundario": "Se Eu Tivesse Pernas, Te Chutaria",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p151_i15_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_atriz_3",
-          "nomePrincipal": "Renate Reinsve",
-          "nomeSecundario": "Valor Sentimental",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
           "indicadoId": "melhor_atriz_4",
           "nomePrincipal": "Emma Stone",
           "nomeSecundario": "Bugonia",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_atriz_1",
+          "nomePrincipal": "Jessie Buckley",
+          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_atriz_5",
@@ -237,7 +221,23 @@
           "nomeSecundario": "Song Sung Blue - Um Sonho a Dois",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i17_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_atriz_3",
+          "nomePrincipal": "Renate Reinsve",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_atriz_2",
+          "nomePrincipal": "Rose Byrne",
+          "nomeSecundario": "Se Eu Tivesse Pernas, Te Chutaria",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p151_i15_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -250,36 +250,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_ator_coadjuvante_1",
-          "nomePrincipal": "Stellan Skarsgård",
-          "nomeSecundario": "Valor Sentimental",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_ator_coadjuvante_2",
-          "nomePrincipal": "Sean Penn",
-          "nomeSecundario": "Uma Batalha Após a Outra",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
           "indicadoId": "melhor_ator_coadjuvante_3",
           "nomePrincipal": "Benicio del Toro",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p169_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_ator_coadjuvante_4",
-          "nomePrincipal": "Jacob Elordi",
-          "nomeSecundario": "Frankenstein",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_ator_coadjuvante_5",
@@ -287,7 +263,31 @@
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p158_i20_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_ator_coadjuvante_4",
+          "nomePrincipal": "Jacob Elordi",
+          "nomeSecundario": "Frankenstein",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_ator_coadjuvante_2",
+          "nomePrincipal": "Sean Penn",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_ator_coadjuvante_1",
+          "nomePrincipal": "Stellan Skarsgård",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -305,31 +305,7 @@
           "nomeSecundario": "A Hora do Mal",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_atriz_coadjuvante_2",
-          "nomePrincipal": "Teyana Taylor",
-          "nomeSecundario": "Uma Batalha Após a Outra",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p193_i19_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_atriz_coadjuvante_3",
-          "nomePrincipal": "Inga Ibsdotter Lilleaas",
-          "nomeSecundario": "Valor Sentimental",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p190_i18_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_atriz_coadjuvante_4",
-          "nomePrincipal": "Wunmi Mosaku",
-          "nomeSecundario": "Pecadores",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3503_i2_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_atriz_coadjuvante_5",
@@ -337,7 +313,31 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p175_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_atriz_coadjuvante_3",
+          "nomePrincipal": "Inga Ibsdotter Lilleaas",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p190_i18_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_atriz_coadjuvante_2",
+          "nomePrincipal": "Teyana Taylor",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p193_i19_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_atriz_coadjuvante_4",
+          "nomePrincipal": "Wunmi Mosaku",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3503_i2_w800.png?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -350,28 +350,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_roteiro_original_1",
-          "nomePrincipal": "Pecadores",
+          "indicadoId": "melhor_roteiro_original_5",
+          "nomePrincipal": "Blue Moon - Música e Solidão",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p198_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_roteiro_original_2",
-          "nomePrincipal": "Valor Sentimental",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p197_i10_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_roteiro_original_3",
-          "nomePrincipal": "Marty Supreme",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p195_i12_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_roteiro_original_4",
@@ -379,15 +363,31 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p213_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_roteiro_original_5",
-          "nomePrincipal": "Blue Moon - Música e Solidão",
+          "indicadoId": "melhor_roteiro_original_3",
+          "nomePrincipal": "Marty Supreme",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p198_i13_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p195_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_roteiro_original_1",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_roteiro_original_2",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p197_i10_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -400,20 +400,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_roteiro_adaptado_1",
-          "nomePrincipal": "Uma Batalha Após a Outra",
+          "indicadoId": "melhor_roteiro_adaptado_4",
+          "nomePrincipal": "Bugonia",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p230_i14_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p234_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_roteiro_adaptado_2",
-          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_roteiro_adaptado_3",
@@ -421,15 +413,15 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_roteiro_adaptado_4",
-          "nomePrincipal": "Bugonia",
+          "indicadoId": "melhor_roteiro_adaptado_2",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p234_i16_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_roteiro_adaptado_5",
@@ -437,7 +429,15 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p231_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_roteiro_adaptado_1",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p230_i14_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -450,20 +450,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_filme_internacional_1",
-          "nomePrincipal": "Valor Sentimental",
-          "nomeSecundario": "Noruega",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p578_i10_w534.jpeg?width=320",
+          "indicadoId": "melhor_filme_internacional_5",
+          "nomePrincipal": "A Voz de Hind Rajab",
+          "nomeSecundario": "Tunísia",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p606_i10_w1080.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_filme_internacional_2",
-          "nomePrincipal": "O Agente Secreto",
-          "nomeSecundario": "Brasil",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i11_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_internacional_3",
@@ -471,7 +463,15 @@
           "nomeSecundario": "França",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p619_i9_w1016.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_filme_internacional_2",
+          "nomePrincipal": "O Agente Secreto",
+          "nomeSecundario": "Brasil",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i11_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_internacional_4",
@@ -479,15 +479,15 @@
           "nomeSecundario": "Espanha",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i8_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_filme_internacional_5",
-          "nomePrincipal": "A Voz de Hind Rajab",
-          "nomeSecundario": "Tunísia",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p606_i10_w1080.jpeg?width=320",
+          "indicadoId": "melhor_filme_internacional_1",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "Noruega",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p578_i10_w534.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -500,20 +500,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_animacao_1",
-          "nomePrincipal": "Guerreiras do KPop",
+          "indicadoId": "melhor_animacao_5",
+          "nomePrincipal": "A Pequena Amélie",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p241_i10_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_animacao_2",
-          "nomePrincipal": "Zootopia 2",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_animacao_3",
@@ -521,7 +513,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_animacao_4",
@@ -529,15 +521,23 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p239_i7_w1013.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_animacao_5",
-          "nomePrincipal": "A Pequena Amélie",
+          "indicadoId": "melhor_animacao_1",
+          "nomePrincipal": "Guerreiras do KPop",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p241_i10_w1000.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_animacao_2",
+          "nomePrincipal": "Zootopia 2",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -555,23 +555,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_documentario_2",
-          "nomePrincipal": "Um Zé Ninguém Contra Putin",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_documentario_3",
-          "nomePrincipal": "Embaixo da Luz de Neon",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p267_i10_w2000.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_documentario_4",
@@ -579,7 +563,15 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p266_i13_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_documentario_3",
+          "nomePrincipal": "Embaixo da Luz de Neon",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p267_i10_w2000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_documentario_5",
@@ -587,7 +579,15 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p268_i10_w770.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_documentario_2",
+          "nomePrincipal": "Um Zé Ninguém Contra Putin",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -605,15 +605,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_direcao_de_arte_2",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p287_i11_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_direcao_de_arte_3",
@@ -621,7 +613,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p284_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_direcao_de_arte_4",
@@ -629,7 +621,15 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p277_i17_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_direcao_de_arte_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p287_i11_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_direcao_de_arte_5",
@@ -637,7 +637,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p283_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -650,20 +650,20 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
+          "indicadoId": "melhor_figurino_5",
+          "nomePrincipal": "Avatar: Fogo e Cinzas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
           "indicadoId": "melhor_figurino_1",
           "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_figurino_2",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_figurino_3",
@@ -671,7 +671,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p305_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_figurino_4",
@@ -679,15 +679,15 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p301_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_figurino_5",
-          "nomePrincipal": "Avatar: Fogo e Cinzas",
+          "indicadoId": "melhor_figurino_2",
+          "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -700,20 +700,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_maquiagem_1",
-          "nomePrincipal": "Frankenstein",
+          "indicadoId": "melhor_maquiagem_5",
+          "nomePrincipal": "A Meia-Irmã Feia",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3776_i1_w640.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_maquiagem_2",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p547_i14_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_maquiagem_3",
@@ -721,7 +713,15 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p543_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_maquiagem_1",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_maquiagem_4",
@@ -729,15 +729,15 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3774_i1_w640.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_maquiagem_5",
-          "nomePrincipal": "A Meia-Irmã Feia",
+          "indicadoId": "melhor_maquiagem_2",
+          "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3776_i1_w640.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p547_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -750,36 +750,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_fotografia_1",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p319_i19_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_fotografia_2",
-          "nomePrincipal": "Sonhos de Trem",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_fotografia_3",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p322_i11_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
           "indicadoId": "melhor_fotografia_4",
           "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_fotografia_5",
@@ -787,7 +763,31 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p320_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_fotografia_1",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p319_i19_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_fotografia_2",
+          "nomePrincipal": "Sonhos de Trem",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_fotografia_3",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p322_i11_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -800,28 +800,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_edicao_1",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p339_i14_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_edicao_2",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p350_i12_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
           "indicadoId": "melhor_edicao_3",
           "nomePrincipal": "F1: O Filme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p335_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_edicao_4",
@@ -829,7 +813,23 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p346_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_edicao_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p350_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_edicao_1",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p339_i14_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_edicao_5",
@@ -837,7 +837,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p336_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -855,7 +855,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_efeitos_visuais_2",
@@ -863,15 +863,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p399_i9_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_efeitos_visuais_3",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p403_i13_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_efeitos_visuais_4",
@@ -879,7 +871,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p397_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_efeitos_visuais_5",
@@ -887,7 +879,15 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p404_i10_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_efeitos_visuais_3",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p403_i13_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -900,12 +900,20 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
+          "indicadoId": "melhor_cancao_original_3",
+          "nomePrincipal": "Diane Warren: Relentless",
+          "nomeSecundario": "Dear Me",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
           "indicadoId": "melhor_cancao_original_1",
           "nomePrincipal": "Guerreiras do KPop",
           "nomeSecundario": "Golden",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_cancao_original_2",
@@ -913,15 +921,7 @@
           "nomeSecundario": "I Lied to You",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p431_i3_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_cancao_original_3",
-          "nomePrincipal": "Diane Warren: Relentless",
-          "nomeSecundario": "Dear Me",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_cancao_original_4",
@@ -929,7 +929,7 @@
           "nomeSecundario": "Trains Dreams",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p419_i9_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_cancao_original_5",
@@ -937,7 +937,7 @@
           "nomeSecundario": "Sweat Dreams of Joy",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3859_i1_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -950,20 +950,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_trilha_sonora_1",
-          "nomePrincipal": "Pecadores",
+          "indicadoId": "melhor_trilha_sonora_5",
+          "nomePrincipal": "Bugonia",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p435_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_trilha_sonora_2",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p452_i19_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_trilha_sonora_3",
@@ -971,7 +963,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_trilha_sonora_4",
@@ -979,15 +971,23 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p439_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_trilha_sonora_5",
-          "nomePrincipal": "Bugonia",
+          "indicadoId": "melhor_trilha_sonora_1",
+          "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p435_i13_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_trilha_sonora_2",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p452_i19_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1005,31 +1005,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_som_2",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p360_i15_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_som_3",
-          "nomePrincipal": "Sirāt",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3778_i2_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_som_4",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p355_i12_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_som_5",
@@ -1037,7 +1013,31 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_som_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p360_i15_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_som_3",
+          "nomePrincipal": "Sirāt",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3778_i2_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_som_4",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p355_i12_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1050,12 +1050,20 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
+          "indicadoId": "melhor_curta_metragem_3",
+          "nomePrincipal": "Butcher's Stain",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p516_i8_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
           "indicadoId": "melhor_curta_metragem_1",
           "nomePrincipal": "Duas Pessoas Trocando Saliva",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3002_i5_w1300.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_curta_metragem_2",
@@ -1063,23 +1071,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3000_i5_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_curta_metragem_3",
-          "nomePrincipal": "Butcher's Stain",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p516_i8_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_curta_metragem_4",
-          "nomePrincipal": "Um Amigo de Dorothy",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p511_i8_w2723.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_curta_metragem_5",
@@ -1087,7 +1079,15 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i5_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_curta_metragem_4",
+          "nomePrincipal": "Um Amigo de Dorothy",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p511_i8_w2723.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1105,31 +1105,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_animacao_em_curta_metragem_2",
-          "nomePrincipal": "Forevergreen",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p517_i9_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_animacao_em_curta_metragem_3",
-          "nomePrincipal": "Retirement Plan",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p525_i9_w1000.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_animacao_em_curta_metragem_4",
-          "nomePrincipal": "Borboleta",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_animacao_em_curta_metragem_5",
@@ -1137,7 +1113,31 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p523_i8_w1061.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_animacao_em_curta_metragem_4",
+          "nomePrincipal": "Borboleta",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_animacao_em_curta_metragem_2",
+          "nomePrincipal": "Forevergreen",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p517_i9_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_animacao_em_curta_metragem_3",
+          "nomePrincipal": "Retirement Plan",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p525_i9_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1150,36 +1150,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_documentario_em_curta_metragem_1",
-          "nomePrincipal": "Quartos Vazios",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
           "indicadoId": "melhor_documentario_em_curta_metragem_2",
           "nomePrincipal": "Armado com uma Câmera: Vida e Morte de Brent Renaud",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p529_i9_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_documentario_em_curta_metragem_3",
-          "nomePrincipal": "O Diabo Não Tem Descanso",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3011_i6_w1000.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_documentario_em_curta_metragem_4",
-          "nomePrincipal": "Perfectly a Strangeness",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3009_i6_w3000.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_documentario_em_curta_metragem_5",
@@ -1187,7 +1163,31 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3013_i5_w2013.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_documentario_em_curta_metragem_3",
+          "nomePrincipal": "O Diabo Não Tem Descanso",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3011_i6_w1000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_documentario_em_curta_metragem_4",
+          "nomePrincipal": "Perfectly a Strangeness",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3009_i6_w3000.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_documentario_em_curta_metragem_1",
+          "nomePrincipal": "Quartos Vazios",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1200,28 +1200,12 @@
       "totalVencedoresMarcados": 0,
       "indicados": [
         {
-          "indicadoId": "melhor_escalacao_de_elenco_1",
-          "nomePrincipal": "Pecadores",
+          "indicadoId": "melhor_escalacao_de_elenco_5",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3268_i2_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3270_i1_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_escalacao_de_elenco_2",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3271_i1_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_escalacao_de_elenco_3",
-          "nomePrincipal": "O Agente Secreto",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_escalacao_de_elenco_4",
@@ -1229,15 +1213,31 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3273_i2_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_escalacao_de_elenco_5",
-          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "indicadoId": "melhor_escalacao_de_elenco_3",
+          "nomePrincipal": "O Agente Secreto",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3270_i1_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3755_i1_w640.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_escalacao_de_elenco_1",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3268_i2_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_escalacao_de_elenco_2",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3271_i1_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
         }
       ]
     }
