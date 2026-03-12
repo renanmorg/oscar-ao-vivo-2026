@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T19:42:23.175Z",
+  "updatedAt": "2026-03-12T19:44:28.234Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -145,23 +145,23 @@
       "categoriaId": "melhor_ator",
       "categoriaNome": "Melhor Ator",
       "ordemCategoria": 3,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
-        {
-          "indicadoId": "melhor_ator_4",
-          "nomePrincipal": "Ethan Hawke",
-          "nomeSecundario": "Blue Moon - Música e Solidão",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "perdeu"
-        },
         {
           "indicadoId": "melhor_ator_5",
           "nomePrincipal": "Leonardo DiCaprio",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
+        {
+          "indicadoId": "melhor_ator_4",
+          "nomePrincipal": "Ethan Hawke",
+          "nomeSecundario": "Blue Moon - Música e Solidão",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320",
           "status": "indicado",
           "resultado": "perdeu"
         },
@@ -1246,9 +1246,9 @@
     {
       "filme": "Uma Batalha Após a Outra",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
-      "vitorias": 1,
+      "vitorias": 2,
       "indicacoes": 13,
-      "placar": "1/13",
+      "placar": "2/13",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1272,7 +1272,7 @@
           "categoriaId": "melhor_ator",
           "categoriaNome": "Melhor Ator",
           "ordemCategoria": 3,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Leonardo DiCaprio",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=320"
@@ -1398,7 +1398,7 @@
           "categoriaId": "melhor_ator",
           "categoriaNome": "Melhor Ator",
           "ordemCategoria": 3,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Michael B. Jordan",
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320"
@@ -1641,7 +1641,7 @@
           "categoriaId": "melhor_ator",
           "categoriaNome": "Melhor Ator",
           "ordemCategoria": 3,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Timothee Chalamet",
           "nomeSecundario": "Marty Supreme",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i14_w800.png?width=320"
@@ -1983,7 +1983,7 @@
           "categoriaId": "melhor_ator",
           "categoriaNome": "Melhor Ator",
           "ordemCategoria": 3,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Wagner Moura",
           "nomeSecundario": "O Agente Secreto",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png?width=320"
@@ -2091,7 +2091,7 @@
           "categoriaId": "melhor_ator",
           "categoriaNome": "Melhor Ator",
           "ordemCategoria": 3,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Ethan Hawke",
           "nomeSecundario": "Blue Moon - Música e Solidão",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320"
