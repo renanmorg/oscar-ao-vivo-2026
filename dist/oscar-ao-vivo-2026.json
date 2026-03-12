@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T18:00:27.987Z",
+  "updatedAt": "2026-03-12T18:04:49.987Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -902,7 +902,7 @@
         {
           "indicadoId": "melhor_cancao_original_1",
           "nomePrincipal": "Guerreiras do KPop",
-          "nomeSecundario": "",
+          "nomeSecundario": "Golden",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320",
           "status": "indicado",
           "resultado": "indicado"
@@ -910,7 +910,7 @@
         {
           "indicadoId": "melhor_cancao_original_2",
           "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
+          "nomeSecundario": "I Lied to You",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p431_i3_w800.jpeg?width=320",
           "status": "indicado",
           "resultado": "indicado"
@@ -918,7 +918,7 @@
         {
           "indicadoId": "melhor_cancao_original_3",
           "nomePrincipal": "Diane Warren: Relentless",
-          "nomeSecundario": "",
+          "nomeSecundario": "Dear Me",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320",
           "status": "indicado",
           "resultado": "indicado"
@@ -926,7 +926,7 @@
         {
           "indicadoId": "melhor_cancao_original_4",
           "nomePrincipal": "Sonhos de Trem",
-          "nomeSecundario": "",
+          "nomeSecundario": "Trains Dreams",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p419_i9_w800.jpeg?width=320",
           "status": "indicado",
           "resultado": "indicado"
@@ -934,7 +934,7 @@
         {
           "indicadoId": "melhor_cancao_original_5",
           "nomePrincipal": "Viva Verdi!",
-          "nomeSecundario": "",
+          "nomeSecundario": "Sweat Dreams of Joy",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3859_i1_w800.jpeg?width=320",
           "status": "indicado",
           "resultado": "indicado"
@@ -1490,7 +1490,7 @@
           "ordemCategoria": 18,
           "status": "pendente",
           "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
+          "nomeSecundario": "I Lied to You",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p431_i3_w800.jpeg?width=320"
         },
         {
@@ -2048,7 +2048,7 @@
           "ordemCategoria": 18,
           "status": "pendente",
           "nomePrincipal": "Sonhos de Trem",
-          "nomeSecundario": "",
+          "nomeSecundario": "Trains Dreams",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p419_i9_w800.jpeg?width=320"
         }
       ]
@@ -2156,7 +2156,7 @@
           "ordemCategoria": 18,
           "status": "pendente",
           "nomePrincipal": "Guerreiras do KPop",
-          "nomeSecundario": "",
+          "nomeSecundario": "Golden",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
         }
       ]
@@ -2453,7 +2453,7 @@
           "ordemCategoria": 18,
           "status": "pendente",
           "nomePrincipal": "Diane Warren: Relentless",
-          "nomeSecundario": "",
+          "nomeSecundario": "Dear Me",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320"
         }
       ]
@@ -2795,7 +2795,7 @@
           "ordemCategoria": 18,
           "status": "pendente",
           "nomePrincipal": "Viva Verdi!",
-          "nomeSecundario": "",
+          "nomeSecundario": "Sweat Dreams of Joy",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3859_i1_w800.jpeg?width=320"
         }
       ]
