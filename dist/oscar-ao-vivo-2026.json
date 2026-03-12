@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T19:50:19.436Z",
+  "updatedAt": "2026-03-12T19:51:19.084Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -150,10 +150,10 @@
       "totalVencedoresMarcados": 1,
       "indicados": [
         {
-          "indicadoId": "melhor_ator_5",
-          "nomePrincipal": "Leonardo DiCaprio",
-          "nomeSecundario": "Uma Batalha Após a Outra",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=320",
+          "indicadoId": "melhor_ator_2",
+          "nomePrincipal": "Michael B. Jordan",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320",
           "status": "vencedor",
           "resultado": "vencedor"
         },
@@ -166,10 +166,10 @@
           "resultado": "perdeu"
         },
         {
-          "indicadoId": "melhor_ator_2",
-          "nomePrincipal": "Michael B. Jordan",
-          "nomeSecundario": "Pecadores",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320",
+          "indicadoId": "melhor_ator_5",
+          "nomePrincipal": "Leonardo DiCaprio",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=320",
           "status": "indicado",
           "resultado": "perdeu"
         },
@@ -1244,137 +1244,11 @@
   ],
   "estatuetas": [
     {
-      "filme": "Uma Batalha Após a Outra",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
-      "vitorias": 2,
-      "indicacoes": 13,
-      "placar": "2/13",
-      "categorias": [
-        {
-          "categoriaId": "melhor_filme",
-          "categoriaNome": "Melhor Filme",
-          "ordemCategoria": 1,
-          "status": "venceu",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_direcao",
-          "categoriaNome": "Melhor Direção",
-          "ordemCategoria": 2,
-          "status": "pendente",
-          "nomePrincipal": "Paul Thomas Anderson",
-          "nomeSecundario": "Uma Batalha Após a Outra",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_ator",
-          "categoriaNome": "Melhor Ator",
-          "ordemCategoria": 3,
-          "status": "venceu",
-          "nomePrincipal": "Leonardo DiCaprio",
-          "nomeSecundario": "Uma Batalha Após a Outra",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_ator_coadjuvante",
-          "categoriaNome": "Melhor Ator Coadjuvante",
-          "ordemCategoria": 5,
-          "status": "pendente",
-          "nomePrincipal": "Sean Penn",
-          "nomeSecundario": "Uma Batalha Após a Outra",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_ator_coadjuvante",
-          "categoriaNome": "Melhor Ator Coadjuvante",
-          "ordemCategoria": 5,
-          "status": "pendente",
-          "nomePrincipal": "Benicio del Toro",
-          "nomeSecundario": "Uma Batalha Após a Outra",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p169_i18_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_atriz_coadjuvante",
-          "categoriaNome": "Melhor Atriz Coadjuvante",
-          "ordemCategoria": 6,
-          "status": "pendente",
-          "nomePrincipal": "Teyana Taylor",
-          "nomeSecundario": "Uma Batalha Após a Outra",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p193_i19_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_roteiro_adaptado",
-          "categoriaNome": "Melhor Roteiro Adaptado",
-          "ordemCategoria": 8,
-          "status": "pendente",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p230_i14_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_direcao_de_arte",
-          "categoriaNome": "Melhor Direção de Arte",
-          "ordemCategoria": 12,
-          "status": "pendente",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p283_i14_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_fotografia",
-          "categoriaNome": "Melhor Fotografia",
-          "ordemCategoria": 15,
-          "status": "pendente",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p322_i11_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_edicao",
-          "categoriaNome": "Melhor Edição",
-          "ordemCategoria": 16,
-          "status": "pendente",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p339_i14_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_trilha_sonora",
-          "categoriaNome": "Melhor Trilha Sonora",
-          "ordemCategoria": 19,
-          "status": "pendente",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p452_i19_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_som",
-          "categoriaNome": "Melhor Som",
-          "ordemCategoria": 20,
-          "status": "pendente",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p355_i12_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_escalacao_de_elenco",
-          "categoriaNome": "Melhor Escalação de Elenco",
-          "ordemCategoria": 24,
-          "status": "pendente",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3271_i1_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
       "filme": "Pecadores",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
-      "vitorias": 0,
+      "vitorias": 1,
       "indicacoes": 16,
-      "placar": "0/16",
+      "placar": "1/16",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1398,7 +1272,7 @@
           "categoriaId": "melhor_ator",
           "categoriaNome": "Melhor Ator",
           "ordemCategoria": 3,
-          "status": "perdeu",
+          "status": "venceu",
           "nomePrincipal": "Michael B. Jordan",
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320"
@@ -1519,6 +1393,132 @@
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3268_i2_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Uma Batalha Após a Outra",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 13,
+      "placar": "1/13",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "venceu",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao",
+          "categoriaNome": "Melhor Direção",
+          "ordemCategoria": 2,
+          "status": "pendente",
+          "nomePrincipal": "Paul Thomas Anderson",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator",
+          "categoriaNome": "Melhor Ator",
+          "ordemCategoria": 3,
+          "status": "perdeu",
+          "nomePrincipal": "Leonardo DiCaprio",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "pendente",
+          "nomePrincipal": "Sean Penn",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "pendente",
+          "nomePrincipal": "Benicio del Toro",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p169_i18_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "pendente",
+          "nomePrincipal": "Teyana Taylor",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p193_i19_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_adaptado",
+          "categoriaNome": "Melhor Roteiro Adaptado",
+          "ordemCategoria": 8,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p230_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p283_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_fotografia",
+          "categoriaNome": "Melhor Fotografia",
+          "ordemCategoria": 15,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p322_i11_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_edicao",
+          "categoriaNome": "Melhor Edição",
+          "ordemCategoria": 16,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p339_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p452_i19_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p355_i12_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_escalacao_de_elenco",
+          "categoriaNome": "Melhor Escalação de Elenco",
+          "ordemCategoria": 24,
+          "status": "pendente",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3271_i1_w800.jpeg?width=320"
         }
       ]
     },
