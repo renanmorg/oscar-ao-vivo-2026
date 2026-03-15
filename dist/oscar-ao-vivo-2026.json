@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T23:55:40.678Z",
+  "updatedAt": "2026-03-15T23:57:27.218Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -650,10 +650,10 @@
       "totalVencedoresMarcados": 1,
       "indicados": [
         {
-          "indicadoId": "melhor_figurino_2",
-          "nomePrincipal": "Pecadores",
+          "indicadoId": "melhor_figurino_1",
+          "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320",
           "status": "vencedor",
           "resultado": "vencedor"
         },
@@ -662,14 +662,6 @@
           "nomePrincipal": "Avatar: Fogo e Cinzas",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "perdeu"
-        },
-        {
-          "indicadoId": "melhor_figurino_1",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320",
           "status": "indicado",
           "resultado": "perdeu"
         },
@@ -686,6 +678,14 @@
           "nomePrincipal": "Marty Supreme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p301_i13_w800.jpeg?width=320",
+          "status": "indicado",
+          "resultado": "perdeu"
+        },
+        {
+          "indicadoId": "melhor_figurino_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320",
           "status": "indicado",
           "resultado": "perdeu"
         }
@@ -1244,164 +1244,11 @@
   ],
   "estatuetas": [
     {
-      "filme": "Pecadores",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
-      "vitorias": 1,
-      "indicacoes": 16,
-      "placar": "1/16",
-      "categorias": [
-        {
-          "categoriaId": "melhor_filme",
-          "categoriaNome": "Melhor Filme",
-          "ordemCategoria": 1,
-          "status": "pendente",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_direcao",
-          "categoriaNome": "Melhor Direção",
-          "ordemCategoria": 2,
-          "status": "pendente",
-          "nomePrincipal": "Ryan Coogler",
-          "nomeSecundario": "Pecadores",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_ator",
-          "categoriaNome": "Melhor Ator",
-          "ordemCategoria": 3,
-          "status": "pendente",
-          "nomePrincipal": "Michael B. Jordan",
-          "nomeSecundario": "Pecadores",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_ator_coadjuvante",
-          "categoriaNome": "Melhor Ator Coadjuvante",
-          "ordemCategoria": 5,
-          "status": "pendente",
-          "nomePrincipal": "Delroy Lindo",
-          "nomeSecundario": "Pecadores",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p158_i20_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_atriz_coadjuvante",
-          "categoriaNome": "Melhor Atriz Coadjuvante",
-          "ordemCategoria": 6,
-          "status": "perdeu",
-          "nomePrincipal": "Wunmi Mosaku",
-          "nomeSecundario": "Pecadores",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3503_i2_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_roteiro_original",
-          "categoriaNome": "Melhor Roteiro Original",
-          "ordemCategoria": 7,
-          "status": "pendente",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_direcao_de_arte",
-          "categoriaNome": "Melhor Direção de Arte",
-          "ordemCategoria": 12,
-          "status": "pendente",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p287_i11_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_figurino",
-          "categoriaNome": "Melhor Figurino",
-          "ordemCategoria": 13,
-          "status": "venceu",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_maquiagem",
-          "categoriaNome": "Melhor Maquiagem",
-          "ordemCategoria": 14,
-          "status": "perdeu",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p547_i14_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_fotografia",
-          "categoriaNome": "Melhor Fotografia",
-          "ordemCategoria": 15,
-          "status": "pendente",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p319_i19_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_edicao",
-          "categoriaNome": "Melhor Edição",
-          "ordemCategoria": 16,
-          "status": "pendente",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p350_i12_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_efeitos_visuais",
-          "categoriaNome": "Melhor Efeitos Visuais",
-          "ordemCategoria": 17,
-          "status": "pendente",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p403_i13_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_cancao_original",
-          "categoriaNome": "Melhor Canção Original",
-          "ordemCategoria": 18,
-          "status": "pendente",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "I Lied to You",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p431_i3_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_trilha_sonora",
-          "categoriaNome": "Melhor Trilha Sonora",
-          "ordemCategoria": 19,
-          "status": "pendente",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_som",
-          "categoriaNome": "Melhor Som",
-          "ordemCategoria": 20,
-          "status": "pendente",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p360_i15_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_escalacao_de_elenco",
-          "categoriaNome": "Melhor Escalação de Elenco",
-          "ordemCategoria": 24,
-          "status": "pendente",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3268_i2_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
       "filme": "Frankenstein",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
-      "vitorias": 1,
+      "vitorias": 2,
       "indicacoes": 9,
-      "placar": "1/9",
+      "placar": "2/9",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1443,7 +1290,7 @@
           "categoriaId": "melhor_figurino",
           "categoriaNome": "Melhor Figurino",
           "ordemCategoria": 13,
-          "status": "perdeu",
+          "status": "venceu",
           "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320"
@@ -1546,6 +1393,159 @@
           "nomePrincipal": "Amy Madigan",
           "nomeSecundario": "A Hora do Mal",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Pecadores",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
+      "vitorias": 0,
+      "indicacoes": 16,
+      "placar": "0/16",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao",
+          "categoriaNome": "Melhor Direção",
+          "ordemCategoria": 2,
+          "status": "pendente",
+          "nomePrincipal": "Ryan Coogler",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator",
+          "categoriaNome": "Melhor Ator",
+          "ordemCategoria": 3,
+          "status": "pendente",
+          "nomePrincipal": "Michael B. Jordan",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "pendente",
+          "nomePrincipal": "Delroy Lindo",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p158_i20_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "perdeu",
+          "nomePrincipal": "Wunmi Mosaku",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3503_i2_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_original",
+          "categoriaNome": "Melhor Roteiro Original",
+          "ordemCategoria": 7,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p287_i11_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
+          "status": "perdeu",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_maquiagem",
+          "categoriaNome": "Melhor Maquiagem",
+          "ordemCategoria": 14,
+          "status": "perdeu",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p547_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_fotografia",
+          "categoriaNome": "Melhor Fotografia",
+          "ordemCategoria": 15,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p319_i19_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_edicao",
+          "categoriaNome": "Melhor Edição",
+          "ordemCategoria": 16,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p350_i12_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_efeitos_visuais",
+          "categoriaNome": "Melhor Efeitos Visuais",
+          "ordemCategoria": 17,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p403_i13_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_cancao_original",
+          "categoriaNome": "Melhor Canção Original",
+          "ordemCategoria": 18,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "I Lied to You",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p431_i3_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p360_i15_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_escalacao_de_elenco",
+          "categoriaNome": "Melhor Escalação de Elenco",
+          "ordemCategoria": 24,
+          "status": "pendente",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3268_i2_w800.jpeg?width=320"
         }
       ]
     },
