@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T23:34:31.717Z",
+  "updatedAt": "2026-03-15T23:54:25.054Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -645,17 +645,25 @@
       "categoriaId": "melhor_figurino",
       "categoriaNome": "Melhor Figurino",
       "ordemCategoria": 13,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_figurino_2",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_figurino_5",
           "nomePrincipal": "Avatar: Fogo e Cinzas",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_figurino_1",
@@ -663,7 +671,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_figurino_3",
@@ -671,7 +679,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p305_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_figurino_4",
@@ -679,15 +687,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p301_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_figurino_2",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1095,17 +1095,17 @@
       "categoriaId": "melhor_animacao_em_curta_metragem",
       "categoriaNome": "Melhor Animação em Curta-Metragem",
       "ordemCategoria": 22,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
         {
           "indicadoId": "melhor_animacao_em_curta_metragem_1",
           "nomePrincipal": "A Garota Que Chorava Pérolas",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg",
-          "status": "indicado",
-          "resultado": "indicado"
+          "status": "vencedor",
+          "resultado": "vencedor"
         },
         {
           "indicadoId": "melhor_animacao_em_curta_metragem_5",
@@ -1113,7 +1113,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p523_i8_w1061.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_animacao_em_curta_metragem_4",
@@ -1121,7 +1121,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_animacao_em_curta_metragem_2",
@@ -1129,7 +1129,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p517_i9_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_animacao_em_curta_metragem_3",
@@ -1137,7 +1137,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p525_i9_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1244,56 +1244,11 @@
   ],
   "estatuetas": [
     {
-      "filme": "Guerreiras do KPop",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
-      "vitorias": 1,
-      "indicacoes": 2,
-      "placar": "1/2",
-      "categorias": [
-        {
-          "categoriaId": "melhor_animacao",
-          "categoriaNome": "Melhor Animação",
-          "ordemCategoria": 10,
-          "status": "venceu",
-          "nomePrincipal": "Guerreiras do KPop",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_cancao_original",
-          "categoriaNome": "Melhor Canção Original",
-          "ordemCategoria": 18,
-          "status": "pendente",
-          "nomePrincipal": "Guerreiras do KPop",
-          "nomeSecundario": "Golden",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
-      "filme": "A Hora do Mal",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
-      "vitorias": 1,
-      "indicacoes": 1,
-      "placar": "1/1",
-      "categorias": [
-        {
-          "categoriaId": "melhor_atriz_coadjuvante",
-          "categoriaNome": "Melhor Atriz Coadjuvante",
-          "ordemCategoria": 6,
-          "status": "venceu",
-          "nomePrincipal": "Amy Madigan",
-          "nomeSecundario": "A Hora do Mal",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320"
-        }
-      ]
-    },
-    {
       "filme": "Pecadores",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
-      "vitorias": 0,
+      "vitorias": 1,
       "indicacoes": 16,
-      "placar": "0/16",
+      "placar": "1/16",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1362,7 +1317,7 @@
           "categoriaId": "melhor_figurino",
           "categoriaNome": "Melhor Figurino",
           "ordemCategoria": 13,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p308_i10_w800.jpeg?width=320"
@@ -1438,6 +1393,69 @@
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3268_i2_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Guerreiras do KPop",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 2,
+      "placar": "1/2",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao",
+          "categoriaNome": "Melhor Animação",
+          "ordemCategoria": 10,
+          "status": "venceu",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_cancao_original",
+          "categoriaNome": "Melhor Canção Original",
+          "ordemCategoria": 18,
+          "status": "pendente",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "Golden",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "A Garota Que Chorava Pérolas",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg",
+      "vitorias": 1,
+      "indicacoes": 1,
+      "placar": "1/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao_em_curta_metragem",
+          "categoriaNome": "Melhor Animação em Curta-Metragem",
+          "ordemCategoria": 22,
+          "status": "venceu",
+          "nomePrincipal": "A Garota Que Chorava Pérolas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg"
+        }
+      ]
+    },
+    {
+      "filme": "A Hora do Mal",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
+      "vitorias": 1,
+      "indicacoes": 1,
+      "placar": "1/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "venceu",
+          "nomePrincipal": "Amy Madigan",
+          "nomeSecundario": "A Hora do Mal",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320"
         }
       ]
     },
@@ -1614,7 +1632,7 @@
           "categoriaId": "melhor_figurino",
           "categoriaNome": "Melhor Figurino",
           "ordemCategoria": 13,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320"
@@ -1713,7 +1731,7 @@
           "categoriaId": "melhor_figurino",
           "categoriaNome": "Melhor Figurino",
           "ordemCategoria": 13,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Marty Supreme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p301_i13_w800.jpeg?width=320"
@@ -1893,7 +1911,7 @@
           "categoriaId": "melhor_figurino",
           "categoriaNome": "Melhor Figurino",
           "ordemCategoria": 13,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p305_i15_w800.jpeg?width=320"
@@ -2109,7 +2127,7 @@
           "categoriaId": "melhor_figurino",
           "categoriaNome": "Melhor Figurino",
           "ordemCategoria": 13,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Avatar: Fogo e Cinzas",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320"
@@ -2203,24 +2221,6 @@
           "nomePrincipal": "Sirāt",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3778_i2_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
-      "filme": "A Garota Que Chorava Pérolas",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg",
-      "vitorias": 0,
-      "indicacoes": 1,
-      "placar": "0/1",
-      "categorias": [
-        {
-          "categoriaId": "melhor_animacao_em_curta_metragem",
-          "categoriaNome": "Melhor Animação em Curta-Metragem",
-          "ordemCategoria": 22,
-          "status": "pendente",
-          "nomePrincipal": "A Garota Que Chorava Pérolas",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg"
         }
       ]
     },
@@ -2361,7 +2361,7 @@
           "categoriaId": "melhor_animacao_em_curta_metragem",
           "categoriaNome": "Melhor Animação em Curta-Metragem",
           "ordemCategoria": 22,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "As Três Irmãs",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p523_i8_w1061.jpeg?width=320"
@@ -2379,7 +2379,7 @@
           "categoriaId": "melhor_animacao_em_curta_metragem",
           "categoriaNome": "Melhor Animação em Curta-Metragem",
           "ordemCategoria": 22,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Borboleta",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p522_i9_w1920.jpeg?width=320"
@@ -2523,7 +2523,7 @@
           "categoriaId": "melhor_animacao_em_curta_metragem",
           "categoriaNome": "Melhor Animação em Curta-Metragem",
           "ordemCategoria": 22,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Forevergreen",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p517_i9_w800.jpeg?width=320"
@@ -2685,7 +2685,7 @@
           "categoriaId": "melhor_animacao_em_curta_metragem",
           "categoriaNome": "Melhor Animação em Curta-Metragem",
           "ordemCategoria": 22,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Retirement Plan",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p525_i9_w1000.jpeg?width=320"
