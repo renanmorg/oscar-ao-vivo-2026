@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T20:49:43.281Z",
+  "updatedAt": "2026-03-15T23:23:07.695Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -295,17 +295,17 @@
       "categoriaId": "melhor_atriz_coadjuvante",
       "categoriaNome": "Melhor Atriz Coadjuvante",
       "ordemCategoria": 6,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
         {
           "indicadoId": "melhor_atriz_coadjuvante_1",
           "nomePrincipal": "Amy Madigan",
           "nomeSecundario": "A Hora do Mal",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "status": "vencedor",
+          "resultado": "vencedor"
         },
         {
           "indicadoId": "melhor_atriz_coadjuvante_5",
@@ -313,7 +313,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p175_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_atriz_coadjuvante_3",
@@ -321,7 +321,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p190_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_atriz_coadjuvante_2",
@@ -329,7 +329,7 @@
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p193_i19_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_atriz_coadjuvante_4",
@@ -337,7 +337,7 @@
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3503_i2_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1244,6 +1244,24 @@
   ],
   "estatuetas": [
     {
+      "filme": "A Hora do Mal",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
+      "vitorias": 1,
+      "indicacoes": 1,
+      "placar": "1/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "venceu",
+          "nomePrincipal": "Amy Madigan",
+          "nomeSecundario": "A Hora do Mal",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320"
+        }
+      ]
+    },
+    {
       "filme": "Pecadores",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
       "vitorias": 0,
@@ -1290,7 +1308,7 @@
           "categoriaId": "melhor_atriz_coadjuvante",
           "categoriaNome": "Melhor Atriz Coadjuvante",
           "ordemCategoria": 6,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Wunmi Mosaku",
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3503_i2_w800.png?width=320"
@@ -1452,7 +1470,7 @@
           "categoriaId": "melhor_atriz_coadjuvante",
           "categoriaNome": "Melhor Atriz Coadjuvante",
           "ordemCategoria": 6,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Teyana Taylor",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p193_i19_w800.png?width=320"
@@ -1749,7 +1767,7 @@
           "categoriaId": "melhor_atriz_coadjuvante",
           "categoriaNome": "Melhor Atriz Coadjuvante",
           "ordemCategoria": 6,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Inga Ibsdotter Lilleaas",
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p190_i18_w800.png?width=320"
@@ -1758,7 +1776,7 @@
           "categoriaId": "melhor_atriz_coadjuvante",
           "categoriaNome": "Melhor Atriz Coadjuvante",
           "ordemCategoria": 6,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Elle Fanning",
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p175_i18_w800.png?width=320"
@@ -2203,24 +2221,6 @@
           "nomePrincipal": "A Garota Que Chorava Pérolas",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg"
-        }
-      ]
-    },
-    {
-      "filme": "A Hora do Mal",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
-      "vitorias": 0,
-      "indicacoes": 1,
-      "placar": "0/1",
-      "categorias": [
-        {
-          "categoriaId": "melhor_atriz_coadjuvante",
-          "categoriaNome": "Melhor Atriz Coadjuvante",
-          "ordemCategoria": 6,
-          "status": "pendente",
-          "nomePrincipal": "Amy Madigan",
-          "nomeSecundario": "A Hora do Mal",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320"
         }
       ]
     },
