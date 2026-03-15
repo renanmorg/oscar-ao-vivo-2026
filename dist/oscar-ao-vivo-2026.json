@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T23:55:11.399Z",
+  "updatedAt": "2026-03-15T23:55:40.678Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -695,17 +695,25 @@
       "categoriaId": "melhor_maquiagem",
       "categoriaNome": "Melhor Maquiagem",
       "ordemCategoria": 14,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_maquiagem_1",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_maquiagem_5",
           "nomePrincipal": "A Meia-Irmã Feia",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3776_i1_w640.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_maquiagem_3",
@@ -713,15 +721,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p543_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_maquiagem_1",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_maquiagem_4",
@@ -729,7 +729,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3774_i1_w640.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_maquiagem_2",
@@ -737,7 +737,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p547_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1326,7 +1326,7 @@
           "categoriaId": "melhor_maquiagem",
           "categoriaNome": "Melhor Maquiagem",
           "ordemCategoria": 14,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p547_i14_w800.jpeg?width=320"
@@ -1393,6 +1393,96 @@
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3268_i2_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Frankenstein",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 9,
+      "placar": "1/9",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "pendente",
+          "nomePrincipal": "Jacob Elordi",
+          "nomeSecundario": "Frankenstein",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_adaptado",
+          "categoriaNome": "Melhor Roteiro Adaptado",
+          "ordemCategoria": 8,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
+          "status": "perdeu",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_maquiagem",
+          "categoriaNome": "Melhor Maquiagem",
+          "ordemCategoria": 14,
+          "status": "venceu",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_fotografia",
+          "categoriaNome": "Melhor Fotografia",
+          "ordemCategoria": 15,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320"
         }
       ]
     },
@@ -1582,96 +1672,6 @@
           "nomePrincipal": "Uma Batalha Após a Outra",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3271_i1_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
-      "filme": "Frankenstein",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
-      "vitorias": 0,
-      "indicacoes": 9,
-      "placar": "0/9",
-      "categorias": [
-        {
-          "categoriaId": "melhor_filme",
-          "categoriaNome": "Melhor Filme",
-          "ordemCategoria": 1,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_ator_coadjuvante",
-          "categoriaNome": "Melhor Ator Coadjuvante",
-          "ordemCategoria": 5,
-          "status": "pendente",
-          "nomePrincipal": "Jacob Elordi",
-          "nomeSecundario": "Frankenstein",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_roteiro_adaptado",
-          "categoriaNome": "Melhor Roteiro Adaptado",
-          "ordemCategoria": 8,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_direcao_de_arte",
-          "categoriaNome": "Melhor Direção de Arte",
-          "ordemCategoria": 12,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_figurino",
-          "categoriaNome": "Melhor Figurino",
-          "ordemCategoria": 13,
-          "status": "perdeu",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_maquiagem",
-          "categoriaNome": "Melhor Maquiagem",
-          "ordemCategoria": 14,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_fotografia",
-          "categoriaNome": "Melhor Fotografia",
-          "ordemCategoria": 15,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_trilha_sonora",
-          "categoriaNome": "Melhor Trilha Sonora",
-          "ordemCategoria": 19,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_som",
-          "categoriaNome": "Melhor Som",
-          "ordemCategoria": 20,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320"
         }
       ]
     },
@@ -2235,7 +2235,7 @@
           "categoriaId": "melhor_maquiagem",
           "categoriaNome": "Melhor Maquiagem",
           "ordemCategoria": 14,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "A Meia-Irmã Feia",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3776_i1_w640.jpeg?width=320"
@@ -2433,7 +2433,7 @@
           "categoriaId": "melhor_maquiagem",
           "categoriaNome": "Melhor Maquiagem",
           "ordemCategoria": 14,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Coração de Lutador - The Smashing Machine",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p543_i12_w800.jpeg?width=320"
@@ -2559,7 +2559,7 @@
           "categoriaId": "melhor_maquiagem",
           "categoriaNome": "Melhor Maquiagem",
           "ordemCategoria": 14,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Kokuho: O Preço da Perfeição",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3774_i1_w640.jpeg?width=320"
