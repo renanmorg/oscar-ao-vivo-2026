@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T23:25:26.082Z",
+  "updatedAt": "2026-03-15T23:32:48.452Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -495,17 +495,25 @@
       "categoriaId": "melhor_animacao",
       "categoriaNome": "Melhor Animação",
       "ordemCategoria": 10,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_animacao_1",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_animacao_5",
           "nomePrincipal": "A Pequena Amélie",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p241_i10_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_animacao_3",
@@ -513,7 +521,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_animacao_4",
@@ -521,15 +529,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p239_i7_w1013.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_animacao_1",
-          "nomePrincipal": "Guerreiras do KPop",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_animacao_2",
@@ -537,7 +537,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1243,6 +1243,33 @@
     }
   ],
   "estatuetas": [
+    {
+      "filme": "Guerreiras do KPop",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 2,
+      "placar": "1/2",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao",
+          "categoriaNome": "Melhor Animação",
+          "ordemCategoria": 10,
+          "status": "venceu",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_cancao_original",
+          "categoriaNome": "Melhor Canção Original",
+          "ordemCategoria": 18,
+          "status": "pendente",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "Golden",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
+        }
+      ]
+    },
     {
       "filme": "A Hora do Mal",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
@@ -2153,33 +2180,6 @@
       ]
     },
     {
-      "filme": "Guerreiras do KPop",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
-      "vitorias": 0,
-      "indicacoes": 2,
-      "placar": "0/2",
-      "categorias": [
-        {
-          "categoriaId": "melhor_animacao",
-          "categoriaNome": "Melhor Animação",
-          "ordemCategoria": 10,
-          "status": "pendente",
-          "nomePrincipal": "Guerreiras do KPop",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_cancao_original",
-          "categoriaNome": "Melhor Canção Original",
-          "ordemCategoria": 18,
-          "status": "pendente",
-          "nomePrincipal": "Guerreiras do KPop",
-          "nomeSecundario": "Golden",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
       "filme": "Sirāt",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i8_w1000.jpeg?width=320",
       "vitorias": 0,
@@ -2253,7 +2253,7 @@
           "categoriaId": "melhor_animacao",
           "categoriaNome": "Melhor Animação",
           "ordemCategoria": 10,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "A Pequena Amélie",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p241_i10_w1000.jpeg?width=320"
@@ -2325,7 +2325,7 @@
           "categoriaId": "melhor_animacao",
           "categoriaNome": "Melhor Animação",
           "ordemCategoria": 10,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Arco",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p244_i12_w194.jpeg"
@@ -2487,7 +2487,7 @@
           "categoriaId": "melhor_animacao",
           "categoriaNome": "Melhor Animação",
           "ordemCategoria": 10,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Elio",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p239_i7_w1013.jpeg?width=320"
@@ -2811,7 +2811,7 @@
           "categoriaId": "melhor_animacao",
           "categoriaNome": "Melhor Animação",
           "ordemCategoria": 10,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Zootopia 2",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p248_i8_w554.jpeg?width=320"
