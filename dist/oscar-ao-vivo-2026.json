@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T01:32:22.960Z",
+  "updatedAt": "2026-03-16T01:36:20.216Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -995,17 +995,17 @@
       "categoriaId": "melhor_som",
       "categoriaNome": "Melhor Som",
       "ordemCategoria": 20,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
         {
           "indicadoId": "melhor_som_1",
           "nomePrincipal": "F1: O Filme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "status": "vencedor",
+          "resultado": "vencedor"
         },
         {
           "indicadoId": "melhor_som_5",
@@ -1013,7 +1013,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_som_2",
@@ -1021,7 +1021,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p360_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_som_3",
@@ -1029,7 +1029,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3778_i2_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_som_4",
@@ -1037,7 +1037,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p355_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1353,7 +1353,7 @@
           "categoriaId": "melhor_som",
           "categoriaNome": "Melhor Som",
           "ordemCategoria": 20,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Uma Batalha Após a Outra",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p355_i12_w800.jpeg?width=320"
@@ -1452,7 +1452,7 @@
           "categoriaId": "melhor_som",
           "categoriaNome": "Melhor Som",
           "ordemCategoria": 20,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320"
@@ -1596,7 +1596,7 @@
           "categoriaId": "melhor_som",
           "categoriaNome": "Melhor Som",
           "ordemCategoria": 20,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p360_i15_w800.jpeg?width=320"
@@ -1609,6 +1609,51 @@
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3268_i2_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "F1: O Filme",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 4,
+      "placar": "1/4",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "pendente",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_edicao",
+          "categoriaNome": "Melhor Edição",
+          "ordemCategoria": 16,
+          "status": "pendente",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p335_i13_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_efeitos_visuais",
+          "categoriaNome": "Melhor Efeitos Visuais",
+          "ordemCategoria": 17,
+          "status": "pendente",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p399_i9_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "venceu",
+          "nomePrincipal": "F1: O Filme",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg?width=320"
         }
       ]
     },
@@ -2018,51 +2063,6 @@
       ]
     },
     {
-      "filme": "F1: O Filme",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320",
-      "vitorias": 0,
-      "indicacoes": 4,
-      "placar": "0/4",
-      "categorias": [
-        {
-          "categoriaId": "melhor_filme",
-          "categoriaNome": "Melhor Filme",
-          "ordemCategoria": 1,
-          "status": "pendente",
-          "nomePrincipal": "F1: O Filme",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_edicao",
-          "categoriaNome": "Melhor Edição",
-          "ordemCategoria": 16,
-          "status": "pendente",
-          "nomePrincipal": "F1: O Filme",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p335_i13_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_efeitos_visuais",
-          "categoriaNome": "Melhor Efeitos Visuais",
-          "ordemCategoria": 17,
-          "status": "pendente",
-          "nomePrincipal": "F1: O Filme",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p399_i9_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_som",
-          "categoriaNome": "Melhor Som",
-          "ordemCategoria": 20,
-          "status": "pendente",
-          "nomePrincipal": "F1: O Filme",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
       "filme": "O Agente Secreto",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg?width=320",
       "vitorias": 0,
@@ -2253,7 +2253,7 @@
           "categoriaId": "melhor_som",
           "categoriaNome": "Melhor Som",
           "ordemCategoria": 20,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Sirāt",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3778_i2_w800.jpeg?width=320"
