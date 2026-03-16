@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T01:29:28.948Z",
+  "updatedAt": "2026-03-16T01:32:17.580Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -945,17 +945,25 @@
       "categoriaId": "melhor_trilha_sonora",
       "categoriaNome": "Melhor Trilha Sonora",
       "ordemCategoria": 19,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_trilha_sonora_1",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_trilha_sonora_5",
           "nomePrincipal": "Bugonia",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p435_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_trilha_sonora_3",
@@ -963,7 +971,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_trilha_sonora_4",
@@ -971,15 +979,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p439_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_trilha_sonora_1",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_trilha_sonora_2",
@@ -987,7 +987,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p452_i19_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1344,7 +1344,7 @@
           "categoriaId": "melhor_trilha_sonora",
           "categoriaNome": "Melhor Trilha Sonora",
           "ordemCategoria": 19,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Uma Batalha Após a Outra",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p452_i19_w800.jpeg?width=320"
@@ -1443,7 +1443,7 @@
           "categoriaId": "melhor_trilha_sonora",
           "categoriaNome": "Melhor Trilha Sonora",
           "ordemCategoria": 19,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320"
@@ -1462,9 +1462,9 @@
     {
       "filme": "Pecadores",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
-      "vitorias": 1,
+      "vitorias": 2,
       "indicacoes": 16,
-      "placar": "1/16",
+      "placar": "2/16",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1587,7 +1587,7 @@
           "categoriaId": "melhor_trilha_sonora",
           "categoriaNome": "Melhor Trilha Sonora",
           "ordemCategoria": 19,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p448_i17_w800.jpeg?width=320"
@@ -1956,7 +1956,7 @@
           "categoriaId": "melhor_trilha_sonora",
           "categoriaNome": "Melhor Trilha Sonora",
           "ordemCategoria": 19,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p439_i14_w800.jpeg?width=320"
@@ -2010,7 +2010,7 @@
           "categoriaId": "melhor_trilha_sonora",
           "categoriaNome": "Melhor Trilha Sonora",
           "ordemCategoria": 19,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Bugonia",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p435_i13_w800.jpeg?width=320"
