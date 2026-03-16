@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T01:50:46.045Z",
+  "updatedAt": "2026-03-16T01:57:17.407Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -845,17 +845,17 @@
       "categoriaId": "melhor_efeitos_visuais",
       "categoriaNome": "Melhor Efeitos Visuais",
       "ordemCategoria": 17,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
         {
           "indicadoId": "melhor_efeitos_visuais_1",
           "nomePrincipal": "Avatar: Fogo e Cinzas",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "status": "vencedor",
+          "resultado": "vencedor"
         },
         {
           "indicadoId": "melhor_efeitos_visuais_2",
@@ -863,7 +863,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p399_i9_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_efeitos_visuais_4",
@@ -871,7 +871,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p397_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_efeitos_visuais_5",
@@ -879,7 +879,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p404_i10_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_efeitos_visuais_3",
@@ -887,7 +887,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p403_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1479,7 +1479,7 @@
           "categoriaId": "melhor_efeitos_visuais",
           "categoriaNome": "Melhor Efeitos Visuais",
           "ordemCategoria": 17,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p403_i13_w800.jpeg?width=320"
@@ -1641,7 +1641,7 @@
           "categoriaId": "melhor_efeitos_visuais",
           "categoriaNome": "Melhor Efeitos Visuais",
           "ordemCategoria": 17,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "F1: O Filme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p399_i9_w800.jpeg?width=320"
@@ -1654,6 +1654,33 @@
           "nomePrincipal": "F1: O Filme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p368_i9_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Avatar: Fogo e Cinzas",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 2,
+      "placar": "1/2",
+      "categorias": [
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
+          "status": "perdeu",
+          "nomePrincipal": "Avatar: Fogo e Cinzas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_efeitos_visuais",
+          "categoriaNome": "Melhor Efeitos Visuais",
+          "ordemCategoria": 17,
+          "status": "venceu",
+          "nomePrincipal": "Avatar: Fogo e Cinzas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg?width=320"
         }
       ]
     },
@@ -2153,33 +2180,6 @@
       ]
     },
     {
-      "filme": "Avatar: Fogo e Cinzas",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320",
-      "vitorias": 0,
-      "indicacoes": 2,
-      "placar": "0/2",
-      "categorias": [
-        {
-          "categoriaId": "melhor_figurino",
-          "categoriaNome": "Melhor Figurino",
-          "ordemCategoria": 13,
-          "status": "perdeu",
-          "nomePrincipal": "Avatar: Fogo e Cinzas",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p314_i12_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_efeitos_visuais",
-          "categoriaNome": "Melhor Efeitos Visuais",
-          "ordemCategoria": 17,
-          "status": "pendente",
-          "nomePrincipal": "Avatar: Fogo e Cinzas",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
       "filme": "Blue Moon - Música e Solidão",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320",
       "vitorias": 0,
@@ -2577,7 +2577,7 @@
           "categoriaId": "melhor_efeitos_visuais",
           "categoriaNome": "Melhor Efeitos Visuais",
           "ordemCategoria": 17,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Jurassic World: Recomeço",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p397_i12_w800.jpeg?width=320"
@@ -2649,7 +2649,7 @@
           "categoriaId": "melhor_efeitos_visuais",
           "categoriaNome": "Melhor Efeitos Visuais",
           "ordemCategoria": 17,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "O Ônibus Perdido",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p404_i10_w800.jpeg?width=320"
