@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T01:05:34.467Z",
+  "updatedAt": "2026-03-16T01:27:36.377Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -545,17 +545,25 @@
       "categoriaId": "melhor_documentario",
       "categoriaNome": "Melhor Documentário",
       "ordemCategoria": 11,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_documentario_2",
+          "nomePrincipal": "Um Zé Ninguém Contra Putin",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_documentario_1",
           "nomePrincipal": "A Vizinha Perfeita",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_documentario_4",
@@ -563,7 +571,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p266_i13_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_documentario_3",
@@ -571,7 +579,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p267_i10_w2000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_documentario_5",
@@ -579,15 +587,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p268_i10_w770.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_documentario_2",
-          "nomePrincipal": "Um Zé Ninguém Contra Putin",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1145,17 +1145,25 @@
       "categoriaId": "melhor_documentario_em_curta_metragem",
       "categoriaNome": "Melhor Documentário em Curta-Metragem",
       "ordemCategoria": 23,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_documentario_em_curta_metragem_1",
+          "nomePrincipal": "Quartos Vazios",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_documentario_em_curta_metragem_2",
           "nomePrincipal": "Armado com uma Câmera: Vida e Morte de Brent Renaud",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p529_i9_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_documentario_em_curta_metragem_5",
@@ -1163,7 +1171,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3013_i5_w2013.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_documentario_em_curta_metragem_3",
@@ -1171,7 +1179,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3011_i6_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_documentario_em_curta_metragem_4",
@@ -1179,15 +1187,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3009_i6_w3000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_documentario_em_curta_metragem_1",
-          "nomePrincipal": "Quartos Vazios",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1672,6 +1672,42 @@
           "nomePrincipal": "Amy Madigan",
           "nomeSecundario": "A Hora do Mal",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Quartos Vazios",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 1,
+      "placar": "1/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario_em_curta_metragem",
+          "categoriaNome": "Melhor Documentário em Curta-Metragem",
+          "ordemCategoria": 23,
+          "status": "venceu",
+          "nomePrincipal": "Quartos Vazios",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Um Zé Ninguém Contra Putin",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 1,
+      "placar": "1/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_documentario",
+          "categoriaNome": "Melhor Documentário",
+          "ordemCategoria": 11,
+          "status": "venceu",
+          "nomePrincipal": "Um Zé Ninguém Contra Putin",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320"
         }
       ]
     },
@@ -2271,7 +2307,7 @@
           "categoriaId": "melhor_documentario",
           "categoriaNome": "Melhor Documentário",
           "ordemCategoria": 11,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "A Vizinha Perfeita",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p274_i8_w1000.jpeg?width=320"
@@ -2307,7 +2343,7 @@
           "categoriaId": "melhor_documentario",
           "categoriaNome": "Melhor Documentário",
           "ordemCategoria": 11,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Alabama: Presos do sistema",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p266_i13_w1000.jpeg?width=320"
@@ -2343,7 +2379,7 @@
           "categoriaId": "melhor_documentario_em_curta_metragem",
           "categoriaNome": "Melhor Documentário em Curta-Metragem",
           "ordemCategoria": 23,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Armado com uma Câmera: Vida e Morte de Brent Renaud",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p529_i9_w1000.jpeg?width=320"
@@ -2415,7 +2451,7 @@
           "categoriaId": "melhor_documentario_em_curta_metragem",
           "categoriaNome": "Melhor Documentário em Curta-Metragem",
           "ordemCategoria": 23,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Children No More: “Were and Are Gone",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3013_i5_w2013.jpeg?width=320"
@@ -2505,7 +2541,7 @@
           "categoriaId": "melhor_documentario",
           "categoriaNome": "Melhor Documentário",
           "ordemCategoria": 11,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Embaixo da Luz de Neon",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p267_i10_w2000.jpeg?width=320"
@@ -2577,7 +2613,7 @@
           "categoriaId": "melhor_documentario_em_curta_metragem",
           "categoriaNome": "Melhor Documentário em Curta-Metragem",
           "ordemCategoria": 23,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "O Diabo Não Tem Descanso",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3011_i6_w1000.jpeg?width=320"
@@ -2649,28 +2685,10 @@
           "categoriaId": "melhor_documentario_em_curta_metragem",
           "categoriaNome": "Melhor Documentário em Curta-Metragem",
           "ordemCategoria": 23,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Perfectly a Strangeness",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3009_i6_w3000.jpeg?width=320"
-        }
-      ]
-    },
-    {
-      "filme": "Quartos Vazios",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320",
-      "vitorias": 0,
-      "indicacoes": 1,
-      "placar": "0/1",
-      "categorias": [
-        {
-          "categoriaId": "melhor_documentario_em_curta_metragem",
-          "categoriaNome": "Melhor Documentário em Curta-Metragem",
-          "ordemCategoria": 23,
-          "status": "pendente",
-          "nomePrincipal": "Quartos Vazios",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p527_i8_w800.jpeg?width=320"
         }
       ]
     },
@@ -2703,7 +2721,7 @@
           "categoriaId": "melhor_documentario",
           "categoriaNome": "Melhor Documentário",
           "ordemCategoria": 11,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Rompendo Rochas",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p268_i10_w770.jpeg?width=320"
@@ -2761,24 +2779,6 @@
           "nomePrincipal": "Um Amigo de Dorothy",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p511_i8_w2723.jpeg?width=320"
-        }
-      ]
-    },
-    {
-      "filme": "Um Zé Ninguém Contra Putin",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320",
-      "vitorias": 0,
-      "indicacoes": 1,
-      "placar": "0/1",
-      "categorias": [
-        {
-          "categoriaId": "melhor_documentario",
-          "categoriaNome": "Melhor Documentário",
-          "ordemCategoria": 11,
-          "status": "pendente",
-          "nomePrincipal": "Um Zé Ninguém Contra Putin",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p262_i9_w2812.jpeg?width=320"
         }
       ]
     },
