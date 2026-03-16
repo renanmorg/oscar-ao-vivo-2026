@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T02:10:28.767Z",
+  "updatedAt": "2026-03-16T02:16:58.120Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -95,17 +95,25 @@
       "categoriaId": "melhor_direcao",
       "categoriaNome": "Melhor Direção",
       "ordemCategoria": 2,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_direcao_1",
+          "nomePrincipal": "Paul Thomas Anderson",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_direcao_4",
           "nomePrincipal": "Chloé Zhao",
           "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_direcao_3",
@@ -113,7 +121,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p113_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_direcao_5",
@@ -121,15 +129,7 @@
           "nomeSecundario": "Marty Supreme",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p104_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_direcao_1",
-          "nomePrincipal": "Paul Thomas Anderson",
-          "nomeSecundario": "Uma Batalha Após a Outra",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_direcao_2",
@@ -137,7 +137,7 @@
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1246,9 +1246,9 @@
     {
       "filme": "Uma Batalha Após a Outra",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
-      "vitorias": 4,
+      "vitorias": 5,
       "indicacoes": 13,
-      "placar": "4/13",
+      "placar": "5/13",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1263,7 +1263,7 @@
           "categoriaId": "melhor_direcao",
           "categoriaNome": "Melhor Direção",
           "ordemCategoria": 2,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Paul Thomas Anderson",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p101_i18_w800.png?width=320"
@@ -1389,7 +1389,7 @@
           "categoriaId": "melhor_direcao",
           "categoriaNome": "Melhor Direção",
           "ordemCategoria": 2,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Ryan Coogler",
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p95_i14_w800.png?width=320"
@@ -1659,7 +1659,7 @@
           "categoriaId": "melhor_direcao",
           "categoriaNome": "Melhor Direção",
           "ordemCategoria": 2,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Joachim Trier",
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p113_i15_w800.png?width=320"
@@ -1893,7 +1893,7 @@
           "categoriaId": "melhor_direcao",
           "categoriaNome": "Melhor Direção",
           "ordemCategoria": 2,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Josh Safdie",
           "nomeSecundario": "Marty Supreme",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p104_i18_w800.png?width=320"
@@ -1983,7 +1983,7 @@
           "categoriaId": "melhor_direcao",
           "categoriaNome": "Melhor Direção",
           "ordemCategoria": 2,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Chloé Zhao",
           "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=320"
