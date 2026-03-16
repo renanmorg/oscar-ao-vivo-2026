@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T00:42:35.394Z",
+  "updatedAt": "2026-03-16T01:05:34.467Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -595,17 +595,17 @@
       "categoriaId": "melhor_direcao_de_arte",
       "categoriaNome": "Melhor Direção de Arte",
       "ordemCategoria": 12,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
         {
           "indicadoId": "melhor_direcao_de_arte_1",
           "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "status": "vencedor",
+          "resultado": "vencedor"
         },
         {
           "indicadoId": "melhor_direcao_de_arte_3",
@@ -613,7 +613,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p284_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_direcao_de_arte_4",
@@ -621,7 +621,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p277_i17_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_direcao_de_arte_2",
@@ -629,7 +629,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p287_i11_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_direcao_de_arte_5",
@@ -637,7 +637,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p283_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1317,7 +1317,7 @@
           "categoriaId": "melhor_direcao_de_arte",
           "categoriaNome": "Melhor Direção de Arte",
           "ordemCategoria": 12,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Uma Batalha Após a Outra",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p283_i14_w800.jpeg?width=320"
@@ -1372,9 +1372,9 @@
     {
       "filme": "Frankenstein",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
-      "vitorias": 2,
+      "vitorias": 3,
       "indicacoes": 9,
-      "placar": "2/9",
+      "placar": "3/9",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1407,7 +1407,7 @@
           "categoriaId": "melhor_direcao_de_arte",
           "categoriaNome": "Melhor Direção de Arte",
           "ordemCategoria": 12,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320"
@@ -1524,7 +1524,7 @@
           "categoriaId": "melhor_direcao_de_arte",
           "categoriaNome": "Melhor Direção de Arte",
           "ordemCategoria": 12,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p287_i11_w800.jpeg?width=320"
@@ -1722,7 +1722,7 @@
           "categoriaId": "melhor_direcao_de_arte",
           "categoriaNome": "Melhor Direção de Arte",
           "ordemCategoria": 12,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Marty Supreme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p277_i17_w800.jpeg?width=320"
@@ -1902,7 +1902,7 @@
           "categoriaId": "melhor_direcao_de_arte",
           "categoriaNome": "Melhor Direção de Arte",
           "ordemCategoria": 12,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p284_i13_w800.jpeg?width=320"
