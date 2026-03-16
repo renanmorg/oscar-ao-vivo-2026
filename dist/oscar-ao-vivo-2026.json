@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T00:05:19.848Z",
+  "updatedAt": "2026-03-16T00:38:37.679Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -245,17 +245,25 @@
       "categoriaId": "melhor_ator_coadjuvante",
       "categoriaNome": "Melhor Ator Coadjuvante",
       "ordemCategoria": 5,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_ator_coadjuvante_2",
+          "nomePrincipal": "Sean Penn",
+          "nomeSecundario": "Uma Batalha Após a Outra",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_ator_coadjuvante_3",
           "nomePrincipal": "Benicio del Toro",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p169_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_ator_coadjuvante_5",
@@ -263,7 +271,7 @@
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p158_i20_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_ator_coadjuvante_4",
@@ -271,15 +279,7 @@
           "nomeSecundario": "Frankenstein",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_ator_coadjuvante_2",
-          "nomePrincipal": "Sean Penn",
-          "nomeSecundario": "Uma Batalha Após a Outra",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_ator_coadjuvante_1",
@@ -287,7 +287,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -345,17 +345,25 @@
       "categoriaId": "melhor_roteiro_original",
       "categoriaNome": "Melhor Roteiro Original",
       "ordemCategoria": 7,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_roteiro_original_1",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_roteiro_original_5",
           "nomePrincipal": "Blue Moon - Música e Solidão",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p198_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_roteiro_original_4",
@@ -363,7 +371,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p213_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_roteiro_original_3",
@@ -371,15 +379,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p195_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_roteiro_original_1",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_roteiro_original_2",
@@ -387,7 +387,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p197_i10_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -395,17 +395,25 @@
       "categoriaId": "melhor_roteiro_adaptado",
       "categoriaNome": "Melhor Roteiro Adaptado",
       "ordemCategoria": 8,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_roteiro_adaptado_1",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p230_i14_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_roteiro_adaptado_4",
           "nomePrincipal": "Bugonia",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p234_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_roteiro_adaptado_3",
@@ -413,7 +421,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_roteiro_adaptado_2",
@@ -421,7 +429,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_roteiro_adaptado_5",
@@ -429,15 +437,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p231_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_roteiro_adaptado_1",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p230_i14_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1045,9 +1045,9 @@
       "categoriaId": "melhor_curta_metragem",
       "categoriaNome": "Melhor Curta-Metragem",
       "ordemCategoria": 21,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "conflito",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 2,
       "indicados": [
         {
           "indicadoId": "melhor_curta_metragem_3",
@@ -1062,8 +1062,8 @@
           "nomePrincipal": "Duas Pessoas Trocando Saliva",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3002_i5_w1300.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "status": "vencedor",
+          "resultado": "conflito"
         },
         {
           "indicadoId": "melhor_curta_metragem_2",
@@ -1078,8 +1078,8 @@
           "nomePrincipal": "Os Cantores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3001_i5_w1000.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "status": "vencedor",
+          "resultado": "conflito"
         },
         {
           "indicadoId": "melhor_curta_metragem_4",
@@ -1244,101 +1244,11 @@
   ],
   "estatuetas": [
     {
-      "filme": "Frankenstein",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
-      "vitorias": 2,
-      "indicacoes": 9,
-      "placar": "2/9",
-      "categorias": [
-        {
-          "categoriaId": "melhor_filme",
-          "categoriaNome": "Melhor Filme",
-          "ordemCategoria": 1,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_ator_coadjuvante",
-          "categoriaNome": "Melhor Ator Coadjuvante",
-          "ordemCategoria": 5,
-          "status": "pendente",
-          "nomePrincipal": "Jacob Elordi",
-          "nomeSecundario": "Frankenstein",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_roteiro_adaptado",
-          "categoriaNome": "Melhor Roteiro Adaptado",
-          "ordemCategoria": 8,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_direcao_de_arte",
-          "categoriaNome": "Melhor Direção de Arte",
-          "ordemCategoria": 12,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_figurino",
-          "categoriaNome": "Melhor Figurino",
-          "ordemCategoria": 13,
-          "status": "venceu",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_maquiagem",
-          "categoriaNome": "Melhor Maquiagem",
-          "ordemCategoria": 14,
-          "status": "venceu",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_fotografia",
-          "categoriaNome": "Melhor Fotografia",
-          "ordemCategoria": 15,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_trilha_sonora",
-          "categoriaNome": "Melhor Trilha Sonora",
-          "ordemCategoria": 19,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_som",
-          "categoriaNome": "Melhor Som",
-          "ordemCategoria": 20,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
       "filme": "Uma Batalha Após a Outra",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
-      "vitorias": 1,
+      "vitorias": 3,
       "indicacoes": 13,
-      "placar": "1/13",
+      "placar": "3/13",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1371,7 +1281,7 @@
           "categoriaId": "melhor_ator_coadjuvante",
           "categoriaNome": "Melhor Ator Coadjuvante",
           "ordemCategoria": 5,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Sean Penn",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p161_i15_w800.png?width=320"
@@ -1380,7 +1290,7 @@
           "categoriaId": "melhor_ator_coadjuvante",
           "categoriaNome": "Melhor Ator Coadjuvante",
           "ordemCategoria": 5,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Benicio del Toro",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p169_i18_w800.png?width=320"
@@ -1398,7 +1308,7 @@
           "categoriaId": "melhor_roteiro_adaptado",
           "categoriaNome": "Melhor Roteiro Adaptado",
           "ordemCategoria": 8,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Uma Batalha Após a Outra",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p230_i14_w800.jpeg?width=320"
@@ -1460,74 +1370,101 @@
       ]
     },
     {
-      "filme": "Guerreiras do KPop",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
-      "vitorias": 1,
-      "indicacoes": 2,
-      "placar": "1/2",
+      "filme": "Frankenstein",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
+      "vitorias": 2,
+      "indicacoes": 9,
+      "placar": "2/9",
       "categorias": [
         {
-          "categoriaId": "melhor_animacao",
-          "categoriaNome": "Melhor Animação",
-          "ordemCategoria": 10,
-          "status": "venceu",
-          "nomePrincipal": "Guerreiras do KPop",
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320"
         },
         {
-          "categoriaId": "melhor_cancao_original",
-          "categoriaNome": "Melhor Canção Original",
-          "ordemCategoria": 18,
-          "status": "pendente",
-          "nomePrincipal": "Guerreiras do KPop",
-          "nomeSecundario": "Golden",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
-      "filme": "A Garota Que Chorava Pérolas",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg",
-      "vitorias": 1,
-      "indicacoes": 1,
-      "placar": "1/1",
-      "categorias": [
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "perdeu",
+          "nomePrincipal": "Jacob Elordi",
+          "nomeSecundario": "Frankenstein",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320"
+        },
         {
-          "categoriaId": "melhor_animacao_em_curta_metragem",
-          "categoriaNome": "Melhor Animação em Curta-Metragem",
-          "ordemCategoria": 22,
-          "status": "venceu",
-          "nomePrincipal": "A Garota Que Chorava Pérolas",
+          "categoriaId": "melhor_roteiro_adaptado",
+          "categoriaNome": "Melhor Roteiro Adaptado",
+          "ordemCategoria": 8,
+          "status": "perdeu",
+          "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg"
-        }
-      ]
-    },
-    {
-      "filme": "A Hora do Mal",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
-      "vitorias": 1,
-      "indicacoes": 1,
-      "placar": "1/1",
-      "categorias": [
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320"
+        },
         {
-          "categoriaId": "melhor_atriz_coadjuvante",
-          "categoriaNome": "Melhor Atriz Coadjuvante",
-          "ordemCategoria": 6,
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
           "status": "venceu",
-          "nomePrincipal": "Amy Madigan",
-          "nomeSecundario": "A Hora do Mal",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320"
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_maquiagem",
+          "categoriaNome": "Melhor Maquiagem",
+          "ordemCategoria": 14,
+          "status": "venceu",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_fotografia",
+          "categoriaNome": "Melhor Fotografia",
+          "ordemCategoria": 15,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320"
         }
       ]
     },
     {
       "filme": "Pecadores",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
-      "vitorias": 0,
+      "vitorias": 1,
       "indicacoes": 16,
-      "placar": "0/16",
+      "placar": "1/16",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1560,7 +1497,7 @@
           "categoriaId": "melhor_ator_coadjuvante",
           "categoriaNome": "Melhor Ator Coadjuvante",
           "ordemCategoria": 5,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Delroy Lindo",
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p158_i20_w800.png?width=320"
@@ -1578,7 +1515,7 @@
           "categoriaId": "melhor_roteiro_original",
           "categoriaNome": "Melhor Roteiro Original",
           "ordemCategoria": 7,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p203_i12_w800.jpeg?width=320"
@@ -1676,6 +1613,69 @@
       ]
     },
     {
+      "filme": "Guerreiras do KPop",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 2,
+      "placar": "1/2",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao",
+          "categoriaNome": "Melhor Animação",
+          "ordemCategoria": 10,
+          "status": "venceu",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_cancao_original",
+          "categoriaNome": "Melhor Canção Original",
+          "ordemCategoria": 18,
+          "status": "pendente",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "Golden",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "A Garota Que Chorava Pérolas",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg",
+      "vitorias": 1,
+      "indicacoes": 1,
+      "placar": "1/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao_em_curta_metragem",
+          "categoriaNome": "Melhor Animação em Curta-Metragem",
+          "ordemCategoria": 22,
+          "status": "venceu",
+          "nomePrincipal": "A Garota Que Chorava Pérolas",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p518_i8_w183.jpeg"
+        }
+      ]
+    },
+    {
+      "filme": "A Hora do Mal",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320",
+      "vitorias": 1,
+      "indicacoes": 1,
+      "placar": "1/1",
+      "categorias": [
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "venceu",
+          "nomePrincipal": "Amy Madigan",
+          "nomeSecundario": "A Hora do Mal",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p180_i23_w800.png?width=320"
+        }
+      ]
+    },
+    {
       "filme": "Marty Supreme",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=320",
       "vitorias": 0,
@@ -1713,7 +1713,7 @@
           "categoriaId": "melhor_roteiro_original",
           "categoriaNome": "Melhor Roteiro Original",
           "ordemCategoria": 7,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Marty Supreme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p195_i12_w800.jpeg?width=320"
@@ -1803,7 +1803,7 @@
           "categoriaId": "melhor_ator_coadjuvante",
           "categoriaNome": "Melhor Ator Coadjuvante",
           "ordemCategoria": 5,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Stellan Skarsgård",
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320"
@@ -1830,7 +1830,7 @@
           "categoriaId": "melhor_roteiro_original",
           "categoriaNome": "Melhor Roteiro Original",
           "ordemCategoria": 7,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Valor Sentimental",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p197_i10_w800.jpeg?width=320"
@@ -1893,7 +1893,7 @@
           "categoriaId": "melhor_roteiro_adaptado",
           "categoriaNome": "Melhor Roteiro Adaptado",
           "ordemCategoria": 8,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg?width=320"
@@ -1965,7 +1965,7 @@
           "categoriaId": "melhor_roteiro_adaptado",
           "categoriaNome": "Melhor Roteiro Adaptado",
           "ordemCategoria": 8,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Bugonia",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p234_i16_w800.jpeg?width=320"
@@ -2091,7 +2091,7 @@
           "categoriaId": "melhor_roteiro_adaptado",
           "categoriaNome": "Melhor Roteiro Adaptado",
           "ordemCategoria": 8,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Sonhos de Trem",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p231_i15_w800.jpeg?width=320"
@@ -2163,7 +2163,7 @@
           "categoriaId": "melhor_roteiro_original",
           "categoriaNome": "Melhor Roteiro Original",
           "ordemCategoria": 7,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Blue Moon - Música e Solidão",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p198_i13_w800.jpeg?width=320"
@@ -2181,7 +2181,7 @@
           "categoriaId": "melhor_roteiro_original",
           "categoriaNome": "Melhor Roteiro Original",
           "ordemCategoria": 7,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Foi Apenas Um Acidente",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p213_i12_w800.jpeg?width=320"
