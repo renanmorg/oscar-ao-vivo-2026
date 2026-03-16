@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T02:25:09.856Z",
+  "updatedAt": "2026-03-16T02:30:23.482Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -195,25 +195,25 @@
       "categoriaId": "melhor_atriz",
       "categoriaNome": "Melhor Atriz",
       "ordemCategoria": 4,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_atriz_1",
+          "nomePrincipal": "Jessie Buckley",
+          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_atriz_4",
           "nomePrincipal": "Emma Stone",
           "nomeSecundario": "Bugonia",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_atriz_1",
-          "nomePrincipal": "Jessie Buckley",
-          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_atriz_5",
@@ -221,7 +221,7 @@
           "nomeSecundario": "Song Sung Blue - Um Sonho a Dois",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i17_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_atriz_3",
@@ -229,7 +229,7 @@
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_atriz_2",
@@ -237,7 +237,7 @@
           "nomeSecundario": "Se Eu Tivesse Pernas, Te Chutaria",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p151_i15_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1668,7 +1668,7 @@
           "categoriaId": "melhor_atriz",
           "categoriaNome": "Melhor Atriz",
           "ordemCategoria": 4,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Renate Reinsve",
           "nomeSecundario": "Valor Sentimental",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png?width=320"
@@ -1726,6 +1726,87 @@
           "nomePrincipal": "Valor Sentimental",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p336_i14_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Hamnet: A Vida Antes de Hamlet",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 8,
+      "placar": "1/8",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "pendente",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao",
+          "categoriaNome": "Melhor Direção",
+          "ordemCategoria": 2,
+          "status": "perdeu",
+          "nomePrincipal": "Chloé Zhao",
+          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz",
+          "categoriaNome": "Melhor Atriz",
+          "ordemCategoria": 4,
+          "status": "venceu",
+          "nomePrincipal": "Jessie Buckley",
+          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_adaptado",
+          "categoriaNome": "Melhor Roteiro Adaptado",
+          "ordemCategoria": 8,
+          "status": "perdeu",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "perdeu",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p284_i13_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
+          "status": "perdeu",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p305_i15_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "perdeu",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p439_i14_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_escalacao_de_elenco",
+          "categoriaNome": "Melhor Escalação de Elenco",
+          "ordemCategoria": 24,
+          "status": "perdeu",
+          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3270_i1_w800.jpeg?width=320"
         }
       ]
     },
@@ -1964,87 +2045,6 @@
       ]
     },
     {
-      "filme": "Hamnet: A Vida Antes de Hamlet",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=320",
-      "vitorias": 0,
-      "indicacoes": 8,
-      "placar": "0/8",
-      "categorias": [
-        {
-          "categoriaId": "melhor_filme",
-          "categoriaNome": "Melhor Filme",
-          "ordemCategoria": 1,
-          "status": "pendente",
-          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_direcao",
-          "categoriaNome": "Melhor Direção",
-          "ordemCategoria": 2,
-          "status": "perdeu",
-          "nomePrincipal": "Chloé Zhao",
-          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p103_i12_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_atriz",
-          "categoriaNome": "Melhor Atriz",
-          "ordemCategoria": 4,
-          "status": "pendente",
-          "nomePrincipal": "Jessie Buckley",
-          "nomeSecundario": "Hamnet: A Vida Antes de Hamlet",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p143_i21_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_roteiro_adaptado",
-          "categoriaNome": "Melhor Roteiro Adaptado",
-          "ordemCategoria": 8,
-          "status": "perdeu",
-          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p227_i17_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_direcao_de_arte",
-          "categoriaNome": "Melhor Direção de Arte",
-          "ordemCategoria": 12,
-          "status": "perdeu",
-          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p284_i13_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_figurino",
-          "categoriaNome": "Melhor Figurino",
-          "ordemCategoria": 13,
-          "status": "perdeu",
-          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p305_i15_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_trilha_sonora",
-          "categoriaNome": "Melhor Trilha Sonora",
-          "ordemCategoria": 19,
-          "status": "perdeu",
-          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p439_i14_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_escalacao_de_elenco",
-          "categoriaNome": "Melhor Escalação de Elenco",
-          "ordemCategoria": 24,
-          "status": "perdeu",
-          "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3270_i1_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
       "filme": "Bugonia",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=320",
       "vitorias": 0,
@@ -2064,7 +2064,7 @@
           "categoriaId": "melhor_atriz",
           "categoriaNome": "Melhor Atriz",
           "ordemCategoria": 4,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Emma Stone",
           "nomeSecundario": "Bugonia",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p138_i16_w800.png?width=320"
@@ -2739,7 +2739,7 @@
           "categoriaId": "melhor_atriz",
           "categoriaNome": "Melhor Atriz",
           "ordemCategoria": 4,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Rose Byrne",
           "nomeSecundario": "Se Eu Tivesse Pernas, Te Chutaria",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p151_i15_w800.png?width=320"
@@ -2757,7 +2757,7 @@
           "categoriaId": "melhor_atriz",
           "categoriaNome": "Melhor Atriz",
           "ordemCategoria": 4,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Kate Hudson",
           "nomeSecundario": "Song Sung Blue - Um Sonho a Dois",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p136_i17_w800.png?width=320"
