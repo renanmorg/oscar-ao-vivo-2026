@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T02:05:03.136Z",
+  "updatedAt": "2026-03-16T02:10:28.767Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -895,25 +895,25 @@
       "categoriaId": "melhor_cancao_original",
       "categoriaNome": "Melhor Canção Original",
       "ordemCategoria": 18,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_cancao_original_1",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "Golden",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_cancao_original_3",
           "nomePrincipal": "Diane Warren: Relentless",
           "nomeSecundario": "Dear Me",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_cancao_original_1",
-          "nomePrincipal": "Guerreiras do KPop",
-          "nomeSecundario": "Golden",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_cancao_original_2",
@@ -921,7 +921,7 @@
           "nomeSecundario": "I Lied to You",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p431_i3_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_cancao_original_4",
@@ -929,7 +929,7 @@
           "nomeSecundario": "Trains Dreams",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p419_i9_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_cancao_original_5",
@@ -937,7 +937,7 @@
           "nomeSecundario": "Sweat Dreams of Joy",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3859_i1_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1488,7 +1488,7 @@
           "categoriaId": "melhor_cancao_original",
           "categoriaNome": "Melhor Canção Original",
           "ordemCategoria": 18,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "I Lied to You",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p431_i3_w800.jpeg?width=320"
@@ -1609,6 +1609,33 @@
           "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
+      "filme": "Guerreiras do KPop",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
+      "vitorias": 2,
+      "indicacoes": 2,
+      "placar": "2/2",
+      "categorias": [
+        {
+          "categoriaId": "melhor_animacao",
+          "categoriaNome": "Melhor Animação",
+          "ordemCategoria": 10,
+          "status": "venceu",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_cancao_original",
+          "categoriaNome": "Melhor Canção Original",
+          "ordemCategoria": 18,
+          "status": "venceu",
+          "nomePrincipal": "Guerreiras do KPop",
+          "nomeSecundario": "Golden",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
         }
       ]
     },
@@ -1771,33 +1798,6 @@
           "nomePrincipal": "Avatar: Fogo e Cinzas",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p409_i14_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
-      "filme": "Guerreiras do KPop",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320",
-      "vitorias": 1,
-      "indicacoes": 2,
-      "placar": "1/2",
-      "categorias": [
-        {
-          "categoriaId": "melhor_animacao",
-          "categoriaNome": "Melhor Animação",
-          "ordemCategoria": 10,
-          "status": "venceu",
-          "nomePrincipal": "Guerreiras do KPop",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p249_i10_w1000.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_cancao_original",
-          "categoriaNome": "Melhor Canção Original",
-          "ordemCategoria": 18,
-          "status": "pendente",
-          "nomePrincipal": "Guerreiras do KPop",
-          "nomeSecundario": "Golden",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p422_i5_w800.jpeg?width=320"
         }
       ]
     },
@@ -2172,7 +2172,7 @@
           "categoriaId": "melhor_cancao_original",
           "categoriaNome": "Melhor Canção Original",
           "ordemCategoria": 18,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Sonhos de Trem",
           "nomeSecundario": "Trains Dreams",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p419_i9_w800.jpeg?width=320"
@@ -2487,7 +2487,7 @@
           "categoriaId": "melhor_cancao_original",
           "categoriaNome": "Melhor Canção Original",
           "ordemCategoria": 18,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Diane Warren: Relentless",
           "nomeSecundario": "Dear Me",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p429_i7_w800.jpeg?width=320"
@@ -2793,7 +2793,7 @@
           "categoriaId": "melhor_cancao_original",
           "categoriaNome": "Melhor Canção Original",
           "ordemCategoria": 18,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Viva Verdi!",
           "nomeSecundario": "Sweat Dreams of Joy",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p3859_i1_w800.jpeg?width=320"
