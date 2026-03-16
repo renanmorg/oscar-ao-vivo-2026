@@ -1,21 +1,29 @@
 {
-  "updatedAt": "2026-03-16T02:30:23.482Z",
+  "updatedAt": "2026-03-16T02:36:54.604Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
       "categoriaNome": "Melhor Filme",
       "ordemCategoria": 1,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 10,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_filme_1",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_filme_8",
           "nomePrincipal": "Bugonia",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_10",
@@ -23,7 +31,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_6",
@@ -31,7 +39,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_4",
@@ -39,7 +47,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_5",
@@ -47,7 +55,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_7",
@@ -55,7 +63,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_2",
@@ -63,7 +71,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_9",
@@ -71,15 +79,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p89_i20_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_filme_1",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_3",
@@ -87,7 +87,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1246,15 +1246,15 @@
     {
       "filme": "Uma Batalha Após a Outra",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
-      "vitorias": 5,
+      "vitorias": 6,
       "indicacoes": 13,
-      "placar": "5/13",
+      "placar": "6/13",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
           "categoriaNome": "Melhor Filme",
           "ordemCategoria": 1,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Uma Batalha Após a Outra",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320"
@@ -1380,7 +1380,7 @@
           "categoriaId": "melhor_filme",
           "categoriaNome": "Melhor Filme",
           "ordemCategoria": 1,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320"
@@ -1533,7 +1533,7 @@
           "categoriaId": "melhor_filme",
           "categoriaNome": "Melhor Filme",
           "ordemCategoria": 1,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320"
@@ -1650,7 +1650,7 @@
           "categoriaId": "melhor_filme",
           "categoriaNome": "Melhor Filme",
           "ordemCategoria": 1,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Valor Sentimental",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg?width=320"
@@ -1740,7 +1740,7 @@
           "categoriaId": "melhor_filme",
           "categoriaNome": "Melhor Filme",
           "ordemCategoria": 1,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Hamnet: A Vida Antes de Hamlet",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=320"
@@ -1821,7 +1821,7 @@
           "categoriaId": "melhor_filme",
           "categoriaNome": "Melhor Filme",
           "ordemCategoria": 1,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "F1: O Filme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320"
@@ -1965,7 +1965,7 @@
           "categoriaId": "melhor_filme",
           "categoriaNome": "Melhor Filme",
           "ordemCategoria": 1,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Marty Supreme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p83_i18_w961.jpeg?width=320"
@@ -2055,7 +2055,7 @@
           "categoriaId": "melhor_filme",
           "categoriaNome": "Melhor Filme",
           "ordemCategoria": 1,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Bugonia",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p81_i18_w800.jpeg?width=320"
@@ -2100,7 +2100,7 @@
           "categoriaId": "melhor_filme",
           "categoriaNome": "Melhor Filme",
           "ordemCategoria": 1,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "O Agente Secreto",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p59_i14_w800.jpeg?width=320"
@@ -2145,7 +2145,7 @@
           "categoriaId": "melhor_filme",
           "categoriaNome": "Melhor Filme",
           "ordemCategoria": 1,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Sonhos de Trem",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p89_i20_w800.jpeg?width=320"
