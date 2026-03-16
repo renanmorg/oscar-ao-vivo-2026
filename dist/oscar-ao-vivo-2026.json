@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T02:00:06.286Z",
+  "updatedAt": "2026-03-16T02:05:03.136Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -445,17 +445,25 @@
       "categoriaId": "melhor_filme_internacional",
       "categoriaNome": "Melhor Filme Internacional",
       "ordemCategoria": 9,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_filme_internacional_1",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "Noruega",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p578_i10_w534.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_filme_internacional_5",
           "nomePrincipal": "A Voz de Hind Rajab",
           "nomeSecundario": "Tunísia",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p606_i10_w1080.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_internacional_3",
@@ -463,7 +471,7 @@
           "nomeSecundario": "França",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p619_i9_w1016.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_internacional_2",
@@ -471,7 +479,7 @@
           "nomeSecundario": "Brasil",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i11_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_filme_internacional_4",
@@ -479,15 +487,7 @@
           "nomeSecundario": "Espanha",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i8_w1000.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_filme_internacional_1",
-          "nomePrincipal": "Valor Sentimental",
-          "nomeSecundario": "Noruega",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p578_i10_w534.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1613,6 +1613,96 @@
       ]
     },
     {
+      "filme": "Valor Sentimental",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg?width=320",
+      "vitorias": 1,
+      "indicacoes": 9,
+      "placar": "1/9",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "pendente",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao",
+          "categoriaNome": "Melhor Direção",
+          "ordemCategoria": 2,
+          "status": "pendente",
+          "nomePrincipal": "Joachim Trier",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p113_i15_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz",
+          "categoriaNome": "Melhor Atriz",
+          "ordemCategoria": 4,
+          "status": "pendente",
+          "nomePrincipal": "Renate Reinsve",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "perdeu",
+          "nomePrincipal": "Stellan Skarsgård",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "perdeu",
+          "nomePrincipal": "Inga Ibsdotter Lilleaas",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p190_i18_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_atriz_coadjuvante",
+          "categoriaNome": "Melhor Atriz Coadjuvante",
+          "ordemCategoria": 6,
+          "status": "perdeu",
+          "nomePrincipal": "Elle Fanning",
+          "nomeSecundario": "Valor Sentimental",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p175_i18_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_original",
+          "categoriaNome": "Melhor Roteiro Original",
+          "ordemCategoria": 7,
+          "status": "perdeu",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p197_i10_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_filme_internacional",
+          "categoriaNome": "Melhor Filme Internacional",
+          "ordemCategoria": 9,
+          "status": "venceu",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "Noruega",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p578_i10_w534.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_edicao",
+          "categoriaNome": "Melhor Edição",
+          "ordemCategoria": 16,
+          "status": "perdeu",
+          "nomePrincipal": "Valor Sentimental",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p336_i14_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
       "filme": "F1: O Filme",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320",
       "vitorias": 1,
@@ -1874,96 +1964,6 @@
       ]
     },
     {
-      "filme": "Valor Sentimental",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg?width=320",
-      "vitorias": 0,
-      "indicacoes": 9,
-      "placar": "0/9",
-      "categorias": [
-        {
-          "categoriaId": "melhor_filme",
-          "categoriaNome": "Melhor Filme",
-          "ordemCategoria": 1,
-          "status": "pendente",
-          "nomePrincipal": "Valor Sentimental",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p63_i16_w515.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_direcao",
-          "categoriaNome": "Melhor Direção",
-          "ordemCategoria": 2,
-          "status": "pendente",
-          "nomePrincipal": "Joachim Trier",
-          "nomeSecundario": "Valor Sentimental",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p113_i15_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_atriz",
-          "categoriaNome": "Melhor Atriz",
-          "ordemCategoria": 4,
-          "status": "pendente",
-          "nomePrincipal": "Renate Reinsve",
-          "nomeSecundario": "Valor Sentimental",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p150_i19_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_ator_coadjuvante",
-          "categoriaNome": "Melhor Ator Coadjuvante",
-          "ordemCategoria": 5,
-          "status": "perdeu",
-          "nomePrincipal": "Stellan Skarsgård",
-          "nomeSecundario": "Valor Sentimental",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p174_i15_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_atriz_coadjuvante",
-          "categoriaNome": "Melhor Atriz Coadjuvante",
-          "ordemCategoria": 6,
-          "status": "perdeu",
-          "nomePrincipal": "Inga Ibsdotter Lilleaas",
-          "nomeSecundario": "Valor Sentimental",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p190_i18_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_atriz_coadjuvante",
-          "categoriaNome": "Melhor Atriz Coadjuvante",
-          "ordemCategoria": 6,
-          "status": "perdeu",
-          "nomePrincipal": "Elle Fanning",
-          "nomeSecundario": "Valor Sentimental",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p175_i18_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_roteiro_original",
-          "categoriaNome": "Melhor Roteiro Original",
-          "ordemCategoria": 7,
-          "status": "perdeu",
-          "nomePrincipal": "Valor Sentimental",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p197_i10_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_filme_internacional",
-          "categoriaNome": "Melhor Filme Internacional",
-          "ordemCategoria": 9,
-          "status": "pendente",
-          "nomePrincipal": "Valor Sentimental",
-          "nomeSecundario": "Noruega",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p578_i10_w534.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_edicao",
-          "categoriaNome": "Melhor Edição",
-          "ordemCategoria": 16,
-          "status": "perdeu",
-          "nomePrincipal": "Valor Sentimental",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p336_i14_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
       "filme": "Hamnet: A Vida Antes de Hamlet",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p75_i18_w1080.jpeg?width=320",
       "vitorias": 0,
@@ -2118,7 +2118,7 @@
           "categoriaId": "melhor_filme_internacional",
           "categoriaNome": "Melhor Filme Internacional",
           "ordemCategoria": 9,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "O Agente Secreto",
           "nomeSecundario": "Brasil",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p568_i11_w800.jpeg?width=320"
@@ -2226,7 +2226,7 @@
           "categoriaId": "melhor_filme_internacional",
           "categoriaNome": "Melhor Filme Internacional",
           "ordemCategoria": 9,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Foi Apenas Um Acidente",
           "nomeSecundario": "França",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p619_i9_w1016.jpeg?width=320"
@@ -2244,7 +2244,7 @@
           "categoriaId": "melhor_filme_internacional",
           "categoriaNome": "Melhor Filme Internacional",
           "ordemCategoria": 9,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Sirāt",
           "nomeSecundario": "Espanha",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p586_i8_w1000.jpeg?width=320"
@@ -2325,7 +2325,7 @@
           "categoriaId": "melhor_filme_internacional",
           "categoriaNome": "Melhor Filme Internacional",
           "ordemCategoria": 9,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "A Voz de Hind Rajab",
           "nomeSecundario": "Tunísia",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p606_i10_w1080.jpeg?width=320"
