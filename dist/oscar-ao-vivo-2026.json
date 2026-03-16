@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T02:18:59.336Z",
+  "updatedAt": "2026-03-16T02:21:43.969Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -145,17 +145,25 @@
       "categoriaId": "melhor_ator",
       "categoriaNome": "Melhor Ator",
       "ordemCategoria": 3,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_ator_2",
+          "nomePrincipal": "Michael B. Jordan",
+          "nomeSecundario": "Pecadores",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_ator_4",
           "nomePrincipal": "Ethan Hawke",
           "nomeSecundario": "Blue Moon - Música e Solidão",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_ator_5",
@@ -163,15 +171,7 @@
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_ator_2",
-          "nomePrincipal": "Michael B. Jordan",
-          "nomeSecundario": "Pecadores",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_ator_1",
@@ -179,7 +179,7 @@
           "nomeSecundario": "Marty Supreme",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i14_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_ator_3",
@@ -187,7 +187,7 @@
           "nomeSecundario": "O Agente Secreto",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1272,7 +1272,7 @@
           "categoriaId": "melhor_ator",
           "categoriaNome": "Melhor Ator",
           "ordemCategoria": 3,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Leonardo DiCaprio",
           "nomeSecundario": "Uma Batalha Após a Outra",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p116_i16_w800.png?width=320"
@@ -1372,9 +1372,9 @@
     {
       "filme": "Pecadores",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
-      "vitorias": 3,
+      "vitorias": 4,
       "indicacoes": 16,
-      "placar": "3/16",
+      "placar": "4/16",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1398,7 +1398,7 @@
           "categoriaId": "melhor_ator",
           "categoriaNome": "Melhor Ator",
           "ordemCategoria": 3,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Michael B. Jordan",
           "nomeSecundario": "Pecadores",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p121_i20_w800.png?width=320"
@@ -1902,7 +1902,7 @@
           "categoriaId": "melhor_ator",
           "categoriaNome": "Melhor Ator",
           "ordemCategoria": 3,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Timothee Chalamet",
           "nomeSecundario": "Marty Supreme",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p122_i14_w800.png?width=320"
@@ -2109,7 +2109,7 @@
           "categoriaId": "melhor_ator",
           "categoriaNome": "Melhor Ator",
           "ordemCategoria": 3,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Wagner Moura",
           "nomeSecundario": "O Agente Secreto",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p118_i18_w800.png?width=320"
@@ -2190,7 +2190,7 @@
           "categoriaId": "melhor_ator",
           "categoriaNome": "Melhor Ator",
           "ordemCategoria": 3,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Ethan Hawke",
           "nomeSecundario": "Blue Moon - Música e Solidão",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p134_i18_w800.png?width=320"
