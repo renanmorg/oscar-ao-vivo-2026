@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T01:39:46.082Z",
+  "updatedAt": "2026-03-16T01:50:38.604Z",
   "categorias": [
     {
       "categoriaId": "melhor_filme",
@@ -745,17 +745,25 @@
       "categoriaId": "melhor_fotografia",
       "categoriaNome": "Melhor Fotografia",
       "ordemCategoria": 15,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_fotografia_1",
+          "nomePrincipal": "Pecadores",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p319_i19_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_fotografia_4",
           "nomePrincipal": "Frankenstein",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_fotografia_5",
@@ -763,15 +771,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p320_i15_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_fotografia_1",
-          "nomePrincipal": "Pecadores",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p319_i19_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_fotografia_2",
@@ -779,7 +779,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_fotografia_3",
@@ -787,7 +787,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p322_i11_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -795,17 +795,25 @@
       "categoriaId": "melhor_edicao",
       "categoriaNome": "Melhor Edição",
       "ordemCategoria": 16,
-      "statusCategoria": "em_aberto",
+      "statusCategoria": "resolvida",
       "totalIndicados": 5,
-      "totalVencedoresMarcados": 0,
+      "totalVencedoresMarcados": 1,
       "indicados": [
+        {
+          "indicadoId": "melhor_edicao_1",
+          "nomePrincipal": "Uma Batalha Após a Outra",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p339_i14_w800.jpeg?width=320",
+          "status": "vencedor",
+          "resultado": "vencedor"
+        },
         {
           "indicadoId": "melhor_edicao_3",
           "nomePrincipal": "F1: O Filme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p335_i13_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_edicao_4",
@@ -813,7 +821,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p346_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_edicao_2",
@@ -821,15 +829,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p350_i12_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
-        },
-        {
-          "indicadoId": "melhor_edicao_1",
-          "nomePrincipal": "Uma Batalha Após a Outra",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p339_i14_w800.jpeg?width=320",
-          "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         },
         {
           "indicadoId": "melhor_edicao_5",
@@ -837,7 +837,7 @@
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p336_i14_w800.jpeg?width=320",
           "status": "indicado",
-          "resultado": "indicado"
+          "resultado": "perdeu"
         }
       ]
     },
@@ -1246,9 +1246,9 @@
     {
       "filme": "Uma Batalha Após a Outra",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p69_i16_w800.jpeg?width=320",
-      "vitorias": 3,
+      "vitorias": 4,
       "indicacoes": 13,
-      "placar": "3/13",
+      "placar": "4/13",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1326,7 +1326,7 @@
           "categoriaId": "melhor_fotografia",
           "categoriaNome": "Melhor Fotografia",
           "ordemCategoria": 15,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Uma Batalha Após a Outra",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p322_i11_w800.jpeg?width=320"
@@ -1335,7 +1335,7 @@
           "categoriaId": "melhor_edicao",
           "categoriaNome": "Melhor Edição",
           "ordemCategoria": 16,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Uma Batalha Após a Outra",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p339_i14_w800.jpeg?width=320"
@@ -1370,101 +1370,11 @@
       ]
     },
     {
-      "filme": "Frankenstein",
-      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
-      "vitorias": 3,
-      "indicacoes": 9,
-      "placar": "3/9",
-      "categorias": [
-        {
-          "categoriaId": "melhor_filme",
-          "categoriaNome": "Melhor Filme",
-          "ordemCategoria": 1,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_ator_coadjuvante",
-          "categoriaNome": "Melhor Ator Coadjuvante",
-          "ordemCategoria": 5,
-          "status": "perdeu",
-          "nomePrincipal": "Jacob Elordi",
-          "nomeSecundario": "Frankenstein",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320"
-        },
-        {
-          "categoriaId": "melhor_roteiro_adaptado",
-          "categoriaNome": "Melhor Roteiro Adaptado",
-          "ordemCategoria": 8,
-          "status": "perdeu",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_direcao_de_arte",
-          "categoriaNome": "Melhor Direção de Arte",
-          "ordemCategoria": 12,
-          "status": "venceu",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_figurino",
-          "categoriaNome": "Melhor Figurino",
-          "ordemCategoria": 13,
-          "status": "venceu",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_maquiagem",
-          "categoriaNome": "Melhor Maquiagem",
-          "ordemCategoria": 14,
-          "status": "venceu",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_fotografia",
-          "categoriaNome": "Melhor Fotografia",
-          "ordemCategoria": 15,
-          "status": "pendente",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_trilha_sonora",
-          "categoriaNome": "Melhor Trilha Sonora",
-          "ordemCategoria": 19,
-          "status": "perdeu",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320"
-        },
-        {
-          "categoriaId": "melhor_som",
-          "categoriaNome": "Melhor Som",
-          "ordemCategoria": 20,
-          "status": "perdeu",
-          "nomePrincipal": "Frankenstein",
-          "nomeSecundario": "",
-          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320"
-        }
-      ]
-    },
-    {
       "filme": "Pecadores",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p62_i15_w1012.jpeg?width=320",
-      "vitorias": 2,
+      "vitorias": 3,
       "indicacoes": 16,
-      "placar": "2/16",
+      "placar": "3/16",
       "categorias": [
         {
           "categoriaId": "melhor_filme",
@@ -1551,7 +1461,7 @@
           "categoriaId": "melhor_fotografia",
           "categoriaNome": "Melhor Fotografia",
           "ordemCategoria": 15,
-          "status": "pendente",
+          "status": "venceu",
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p319_i19_w800.jpeg?width=320"
@@ -1560,7 +1470,7 @@
           "categoriaId": "melhor_edicao",
           "categoriaNome": "Melhor Edição",
           "ordemCategoria": 16,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Pecadores",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p350_i12_w800.jpeg?width=320"
@@ -1613,6 +1523,96 @@
       ]
     },
     {
+      "filme": "Frankenstein",
+      "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320",
+      "vitorias": 3,
+      "indicacoes": 9,
+      "placar": "3/9",
+      "categorias": [
+        {
+          "categoriaId": "melhor_filme",
+          "categoriaNome": "Melhor Filme",
+          "ordemCategoria": 1,
+          "status": "pendente",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p88_i16_w1013.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_ator_coadjuvante",
+          "categoriaNome": "Melhor Ator Coadjuvante",
+          "ordemCategoria": 5,
+          "status": "perdeu",
+          "nomePrincipal": "Jacob Elordi",
+          "nomeSecundario": "Frankenstein",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p171_i15_w800.png?width=320"
+        },
+        {
+          "categoriaId": "melhor_roteiro_adaptado",
+          "categoriaNome": "Melhor Roteiro Adaptado",
+          "ordemCategoria": 8,
+          "status": "perdeu",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p223_i15_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_direcao_de_arte",
+          "categoriaNome": "Melhor Direção de Arte",
+          "ordemCategoria": 12,
+          "status": "venceu",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p281_i19_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_figurino",
+          "categoriaNome": "Melhor Figurino",
+          "ordemCategoria": 13,
+          "status": "venceu",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p298_i17_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_maquiagem",
+          "categoriaNome": "Melhor Maquiagem",
+          "ordemCategoria": 14,
+          "status": "venceu",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p540_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_fotografia",
+          "categoriaNome": "Melhor Fotografia",
+          "ordemCategoria": 15,
+          "status": "perdeu",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p315_i18_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_trilha_sonora",
+          "categoriaNome": "Melhor Trilha Sonora",
+          "ordemCategoria": 19,
+          "status": "perdeu",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p438_i16_w800.jpeg?width=320"
+        },
+        {
+          "categoriaId": "melhor_som",
+          "categoriaNome": "Melhor Som",
+          "ordemCategoria": 20,
+          "status": "perdeu",
+          "nomePrincipal": "Frankenstein",
+          "nomeSecundario": "",
+          "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p364_i16_w800.jpeg?width=320"
+        }
+      ]
+    },
+    {
       "filme": "F1: O Filme",
       "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p70_i17_w509.jpeg?width=320",
       "vitorias": 1,
@@ -1632,7 +1632,7 @@
           "categoriaId": "melhor_edicao",
           "categoriaNome": "Melhor Edição",
           "ordemCategoria": 16,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "F1: O Filme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p335_i13_w800.jpeg?width=320"
@@ -1821,7 +1821,7 @@
           "categoriaId": "melhor_fotografia",
           "categoriaNome": "Melhor Fotografia",
           "ordemCategoria": 15,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Marty Supreme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p320_i15_w800.jpeg?width=320"
@@ -1830,7 +1830,7 @@
           "categoriaId": "melhor_edicao",
           "categoriaNome": "Melhor Edição",
           "ordemCategoria": 16,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Marty Supreme",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p346_i14_w800.jpeg?width=320"
@@ -1929,7 +1929,7 @@
           "categoriaId": "melhor_edicao",
           "categoriaNome": "Melhor Edição",
           "ordemCategoria": 16,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Valor Sentimental",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p336_i14_w800.jpeg?width=320"
@@ -2136,7 +2136,7 @@
           "categoriaId": "melhor_fotografia",
           "categoriaNome": "Melhor Fotografia",
           "ordemCategoria": 15,
-          "status": "pendente",
+          "status": "perdeu",
           "nomePrincipal": "Sonhos de Trem",
           "nomeSecundario": "",
           "imagem": "https://termometrooscar.com/uploads/1/4/8/8/1488234/s118581882355374300_p332_i16_w800.jpeg?width=320"
